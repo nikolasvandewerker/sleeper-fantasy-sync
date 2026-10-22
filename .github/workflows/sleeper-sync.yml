@@ -20,9 +20,15 @@ jobs:
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
         run: python espn_sync.py
-      - name: Commit snapshots
+      - name: Commit snapshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/sleeper_snapshot.json data/espn_snapshot.json
-          git diff --cached --quiet || (git commit -m 'Update fantasy league snapshots' && git push)
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update fantasy snapshots"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
