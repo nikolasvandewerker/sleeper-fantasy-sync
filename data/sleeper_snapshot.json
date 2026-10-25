@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-24T11:53:51.903857+00:00",
+  "updated_at_utc": "2026-10-25T11:52:05.816474+00:00",
   "season": "2026",
   "week": 7,
   "leagues": {
@@ -191,8 +191,8 @@
           "slot": "WR"
         },
         {
-          "id": "5846",
-          "name": "DK Metcalf",
+          "id": "12501",
+          "name": "Matthew Golden",
           "slot": "WR"
         },
         {
@@ -201,13 +201,13 @@
           "slot": "TE"
         },
         {
-          "id": "12501",
-          "name": "Matthew Golden",
+          "id": "5846",
+          "name": "DK Metcalf",
           "slot": "FLEX"
         },
         {
-          "id": "10229",
-          "name": "Rashee Rice",
+          "id": "11610",
+          "name": "Malik Washington",
           "slot": "FLEX"
         },
         {
@@ -223,8 +223,8 @@
       ],
       "bench": [
         {
-          "id": "11610",
-          "name": "Malik Washington"
+          "id": "10229",
+          "name": "Rashee Rice"
         },
         {
           "id": "12518",
@@ -438,104 +438,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "12718",
-          "name": "Konata Mumpfield",
-          "adds": 409257
-        },
-        {
           "id": "13424",
           "name": "Seth McGowan",
-          "adds": 313040
+          "adds": 597304
+        },
+        {
+          "id": "13150",
+          "name": "Darius Cooper",
+          "adds": 355348
+        },
+        {
+          "id": "12718",
+          "name": "Konata Mumpfield",
+          "adds": 276597
         },
         {
           "id": "3271",
           "name": "Tyler Higbee",
-          "adds": 303588
+          "adds": 196128
         },
         {
           "id": "4037",
           "name": "Chris Godwin Jr.",
-          "adds": 195966
+          "adds": 165822
         },
         {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "adds": 132705
+          "id": "5995",
+          "name": "Justice Hill",
+          "adds": 136377
         },
         {
           "id": "13317",
           "name": "Ted Hurst III",
-          "adds": 124308
-        },
-        {
-          "id": "8122",
-          "name": "Zonovan Knight",
-          "adds": 102414
-        },
-        {
-          "id": "2197",
-          "name": "Brandin Cooks",
-          "adds": 90136
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 83800
-        },
-        {
-          "id": "11625",
-          "name": "Adonai Mitchell",
-          "adds": 70384
-        },
-        {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "adds": 64080
-        },
-        {
-          "id": "12634",
-          "name": "Jordan Watkins",
-          "adds": 62156
-        },
-        {
-          "id": "6865",
-          "name": "Colby Parkinson",
-          "adds": 58836
-        },
-        {
-          "id": "CLE",
-          "name": "CLE",
-          "adds": 55174
-        },
-        {
-          "id": "9756",
-          "name": "Jordan Addison",
-          "adds": 52011
-        },
-        {
-          "id": "13298",
-          "name": "KC Concepcion Jr.",
-          "adds": 50715
+          "adds": 106332
         },
         {
           "id": "5849",
           "name": "Kyler Murray",
-          "adds": 49576
+          "adds": 106192
+        },
+        {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "adds": 90988
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 74862
+        },
+        {
+          "id": "11563",
+          "name": "Bo Nix",
+          "adds": 67968
+        },
+        {
+          "id": "2197",
+          "name": "Brandin Cooks",
+          "adds": 67232
+        },
+        {
+          "id": "8122",
+          "name": "Zonovan Knight",
+          "adds": 63368
+        },
+        {
+          "id": "96",
+          "name": "Aaron Rodgers",
+          "adds": 61708
+        },
+        {
+          "id": "13298",
+          "name": "KC Concepcion Jr.",
+          "adds": 56511
+        },
+        {
+          "id": "CLE",
+          "name": "CLE",
+          "adds": 54957
         },
         {
           "id": "11539",
           "name": "Jake Bates",
-          "adds": 48856
+          "adds": 53776
         },
         {
-          "id": "1479",
-          "name": "Keenan Allen",
-          "adds": 47552
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "adds": 53608
         },
         {
-          "id": "5045",
-          "name": "Courtland Sutton",
-          "adds": 47367
+          "id": "1373",
+          "name": "Geno Smith",
+          "adds": 50928
+        },
+        {
+          "id": "11625",
+          "name": "Adonai Mitchell",
+          "adds": 49192
         }
       ]
     },
@@ -1171,104 +1171,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "12718",
-          "name": "Konata Mumpfield",
-          "adds": 409257
-        },
-        {
           "id": "13424",
           "name": "Seth McGowan",
-          "adds": 313040
+          "adds": 597304
         },
         {
-          "id": "4037",
-          "name": "Chris Godwin Jr.",
-          "adds": 195966
+          "id": "13150",
+          "name": "Darius Cooper",
+          "adds": 355348
+        },
+        {
+          "id": "12718",
+          "name": "Konata Mumpfield",
+          "adds": 276597
         },
         {
           "id": "11435",
           "name": "Emanuel Wilson",
-          "adds": 179712
+          "adds": 176202
         },
         {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "adds": 132705
+          "id": "4037",
+          "name": "Chris Godwin Jr.",
+          "adds": 165822
+        },
+        {
+          "id": "5995",
+          "name": "Justice Hill",
+          "adds": 136377
         },
         {
           "id": "13317",
           "name": "Ted Hurst III",
-          "adds": 124308
+          "adds": 106332
         },
         {
-          "id": "8122",
-          "name": "Zonovan Knight",
-          "adds": 102414
+          "id": "13294",
+          "name": "Makai Lemon",
+          "adds": 90988
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 74862
         },
         {
           "id": "2197",
           "name": "Brandin Cooks",
-          "adds": 90136
+          "adds": 67232
         },
         {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 83800
-        },
-        {
-          "id": "11610",
-          "name": "Malik Washington",
-          "adds": 78480
-        },
-        {
-          "id": "11625",
-          "name": "Adonai Mitchell",
-          "adds": 70384
-        },
-        {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "adds": 64080
-        },
-        {
-          "id": "12634",
-          "name": "Jordan Watkins",
-          "adds": 62156
-        },
-        {
-          "id": "6865",
-          "name": "Colby Parkinson",
-          "adds": 58836
+          "id": "8122",
+          "name": "Zonovan Knight",
+          "adds": 63368
         },
         {
           "id": "13298",
           "name": "KC Concepcion Jr.",
-          "adds": 50715
-        },
-        {
-          "id": "11539",
-          "name": "Jake Bates",
-          "adds": 48856
-        },
-        {
-          "id": "1479",
-          "name": "Keenan Allen",
-          "adds": 47552
-        },
-        {
-          "id": "5045",
-          "name": "Courtland Sutton",
-          "adds": 47367
-        },
-        {
-          "id": "8135",
-          "name": "Treylon Burks",
-          "adds": 46382
+          "adds": 56511
         },
         {
           "id": "9758",
           "name": "C.J. Stroud",
-          "adds": 45094
+          "adds": 55902
+        },
+        {
+          "id": "11539",
+          "name": "Jake Bates",
+          "adds": 53776
+        },
+        {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "adds": 53608
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith",
+          "adds": 50928
+        },
+        {
+          "id": "11625",
+          "name": "Adonai Mitchell",
+          "adds": 49192
+        },
+        {
+          "id": "11610",
+          "name": "Malik Washington",
+          "adds": 48528
+        },
+        {
+          "id": "10220",
+          "name": "Will Mallory",
+          "adds": 45306
+        },
+        {
+          "id": "12634",
+          "name": "Jordan Watkins",
+          "adds": 43204
         }
       ]
     }

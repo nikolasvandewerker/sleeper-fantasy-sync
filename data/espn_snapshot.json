@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-24T11:53:53.066773+00:00",
+  "updated_at_utc": "2026-10-25T11:52:06.847709+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
@@ -420,7 +420,7 @@
               "player_id": 3121023,
               "name": "Dallas Goedert",
               "lineup_slot_id": 6,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 21,
               "default_position_id": 4
             },
@@ -767,7 +767,7 @@
               "player_id": 4241478,
               "name": "DeVonta Smith",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 21,
               "default_position_id": 3
             },
@@ -1283,7 +1283,7 @@
               "player_id": 3916387,
               "name": "Lamar Jackson",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 33,
               "default_position_id": 1
             },
@@ -1344,14 +1344,6 @@
               "default_position_id": 2
             },
             {
-              "player_id": 4360761,
-              "name": "Michael Wilson",
-              "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
-              "pro_team_id": 22,
-              "default_position_id": 3
-            },
-            {
               "player_id": 3917315,
               "name": "Kyler Murray",
               "lineup_slot_id": 0,
@@ -1374,6 +1366,14 @@
               "injury_status": null,
               "pro_team_id": 18,
               "default_position_id": 16
+            },
+            {
+              "player_id": 4366031,
+              "name": "Tank Dell",
+              "lineup_slot_id": 20,
+              "injury_status": "ACTIVE",
+              "pro_team_id": 34,
+              "default_position_id": 3
             }
           ]
         },
@@ -1387,7 +1387,7 @@
             {
               "player_id": 4426515,
               "name": "Puka Nacua",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 14,
               "default_position_id": 3
@@ -1427,7 +1427,7 @@
             {
               "player_id": 4569618,
               "name": "Garrett Wilson",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 3
@@ -2032,7 +2032,7 @@
               "player_id": 3916387,
               "name": "Lamar Jackson",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 33,
               "default_position_id": 1
             },
@@ -2136,7 +2136,7 @@
               "player_id": 4360569,
               "name": "Jordan Mason",
               "lineup_slot_id": 20,
-              "injury_status": "INJURY_RESERVE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 16,
               "default_position_id": 2
             }
@@ -2612,7 +2612,7 @@
               "player_id": 4241478,
               "name": "DeVonta Smith",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 21,
               "default_position_id": 3
             },
@@ -3060,14 +3060,6 @@
               "default_position_id": 1
             },
             {
-              "player_id": 3121422,
-              "name": "Terry McLaurin",
-              "lineup_slot_id": 20,
-              "injury_status": "OUT",
-              "pro_team_id": 28,
-              "default_position_id": 3
-            },
-            {
               "player_id": 4426388,
               "name": "Jameson Williams",
               "lineup_slot_id": 20,
@@ -3078,7 +3070,7 @@
             {
               "player_id": -16034,
               "name": "Texans D/ST",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 16,
               "injury_status": null,
               "pro_team_id": 34,
               "default_position_id": 16
@@ -3095,7 +3087,7 @@
               "player_id": 3121023,
               "name": "Dallas Goedert",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 21,
               "default_position_id": 4
             },
@@ -3150,10 +3142,18 @@
             {
               "player_id": -16020,
               "name": "Jets D/ST",
-              "lineup_slot_id": 16,
+              "lineup_slot_id": 20,
               "injury_status": null,
               "pro_team_id": 20,
               "default_position_id": 16
+            },
+            {
+              "player_id": 4366031,
+              "name": "Tank Dell",
+              "lineup_slot_id": 20,
+              "injury_status": "ACTIVE",
+              "pro_team_id": 34,
+              "default_position_id": 3
             }
           ]
         },
