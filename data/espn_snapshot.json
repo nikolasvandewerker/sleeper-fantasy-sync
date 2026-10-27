@@ -1,11 +1,11 @@
 {
-  "updated_at_utc": "2026-10-26T13:43:22.149319+00:00",
+  "updated_at_utc": "2026-10-27T11:59:17.370994+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
       "league_name": "2026 Pop-a-Top",
       "season": 2026,
-      "week": 7,
+      "week": 8,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -349,7 +349,7 @@
           "team_id": 1,
           "record": {
             "wins": 4,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -478,7 +478,7 @@
           "team_id": 3,
           "record": {
             "wins": 2,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -607,7 +607,7 @@
           "team_id": 4,
           "record": {
             "wins": 1,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -735,7 +735,7 @@
         {
           "team_id": 6,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 2
           },
           "roster": [
@@ -743,7 +743,7 @@
               "player_id": 3117251,
               "name": "Christian McCaffrey",
               "lineup_slot_id": 2,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 25,
               "default_position_id": 2
             },
@@ -864,7 +864,7 @@
         {
           "team_id": 7,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 2
           },
           "roster": [
@@ -993,7 +993,7 @@
         {
           "team_id": 8,
           "record": {
-            "wins": 1,
+            "wins": 2,
             "losses": 5
           },
           "roster": [
@@ -1001,7 +1001,7 @@
               "player_id": 4374302,
               "name": "Amon-Ra St. Brown",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 8,
               "default_position_id": 3
             },
@@ -1105,7 +1105,7 @@
               "player_id": 4695883,
               "name": "Jalen Coker",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 29,
               "default_position_id": 3
             },
@@ -1122,7 +1122,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 3,
+            "wins": 4,
             "losses": 3
           },
           "roster": [
@@ -1251,7 +1251,7 @@
         {
           "team_id": 13,
           "record": {
-            "wins": 3,
+            "wins": 4,
             "losses": 3
           },
           "roster": [
@@ -1266,7 +1266,7 @@
             {
               "player_id": 4362238,
               "name": "Chase Brown",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 4,
               "default_position_id": 2
@@ -1306,7 +1306,7 @@
             {
               "player_id": 4569173,
               "name": "Rhamondre Stevenson",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 2,
               "injury_status": "ACTIVE",
               "pro_team_id": 17,
               "default_position_id": 2
@@ -1381,7 +1381,7 @@
           "team_id": 14,
           "record": {
             "wins": 4,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -1460,7 +1460,7 @@
               "player_id": 4701936,
               "name": "Matthew Golden",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 9,
               "default_position_id": 3
             },
@@ -1510,7 +1510,7 @@
           "team_id": 15,
           "record": {
             "wins": 4,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -1641,7 +1641,7 @@
       "league_id": 415719,
       "league_name": "MUDCATS",
       "season": 2026,
-      "week": 7,
+      "week": 8,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -2000,7 +2000,7 @@
         {
           "team_id": 1,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 1
           },
           "roster": [
@@ -2145,7 +2145,7 @@
         {
           "team_id": 2,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 2
           },
           "roster": [
@@ -2291,7 +2291,7 @@
           "team_id": 3,
           "record": {
             "wins": 1,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -2354,7 +2354,7 @@
               "player_id": 4695883,
               "name": "Jalen Coker",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 29,
               "default_position_id": 3
             },
@@ -2435,7 +2435,7 @@
         {
           "team_id": 5,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 2
           },
           "roster": [
@@ -2581,7 +2581,7 @@
           "team_id": 6,
           "record": {
             "wins": 3,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -2660,7 +2660,7 @@
               "player_id": 4701936,
               "name": "Matthew Golden",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 9,
               "default_position_id": 3
             },
@@ -2726,7 +2726,7 @@
           "team_id": 7,
           "record": {
             "wins": 2,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -2871,14 +2871,14 @@
           "team_id": 8,
           "record": {
             "wins": 4,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
               "player_id": 3117251,
               "name": "Christian McCaffrey",
               "lineup_slot_id": 2,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 25,
               "default_position_id": 2
             },
@@ -3015,7 +3015,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 3,
+            "wins": 4,
             "losses": 3
           },
           "roster": [
@@ -3070,7 +3070,7 @@
             {
               "player_id": -16034,
               "name": "Texans D/ST",
-              "lineup_slot_id": 16,
+              "lineup_slot_id": 20,
               "injury_status": null,
               "pro_team_id": 34,
               "default_position_id": 16
@@ -3142,7 +3142,7 @@
             {
               "player_id": -16020,
               "name": "Jets D/ST",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 16,
               "injury_status": null,
               "pro_team_id": 20,
               "default_position_id": 16
@@ -3160,7 +3160,7 @@
         {
           "team_id": 10,
           "record": {
-            "wins": 2,
+            "wins": 3,
             "losses": 4
           },
           "roster": [
@@ -3168,7 +3168,7 @@
               "player_id": 4374302,
               "name": "Amon-Ra St. Brown",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 8,
               "default_position_id": 3
             },
@@ -3306,7 +3306,7 @@
           "team_id": 11,
           "record": {
             "wins": 2,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
