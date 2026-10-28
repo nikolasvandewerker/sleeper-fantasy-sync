@@ -25,7 +25,15 @@ def request_json(url, token):
         print("Yahoo Fantasy endpoint denied: " + endpoint + " (HTTP " + str(exc.code) + ")", file=sys.stderr)
         # Extract only short, machine-readable error identifiers; never log raw bodies.
         try:
-            payload = json.loads(exc.read(8192).decode("utf-8", errors="replace"))
+            response_text = exc.read(8192).decode("utf-8", errors="replace")
+            if "This application is not authorized to perform this action" in response_text:
+                print("Yahoo diagnostic: application authorization denied by Yahoo Fantasy API.", file=sys.stderr)
+            if "ACCOUNT_NOT_AUTHORIZED" in response_text:
+                print("Yahoo diagnostic: ACCOUNT_NOT_AUTHORIZED.", file=sys.stderr)
+            try:
+                payload = json.loads(response_text)
+            except ValueError:
+                payload = None
             if isinstance(payload, dict):
                 error = payload.get("error", {})
                 candidates = [payload.get("code"), payload.get("error_code")]
