@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-27T11:59:16.366599+00:00",
+  "updated_at_utc": "2026-10-28T02:20:10.330944+00:00",
   "season": "2026",
   "week": 8,
   "leagues": {
@@ -254,102 +254,102 @@
         {
           "id": "13296",
           "name": "Caleb Douglas",
-          "adds": 662872
-        },
-        {
-          "id": "13298",
-          "name": "KC Concepcion Jr.",
-          "adds": 309672
+          "adds": 1515400
         },
         {
           "id": "13424",
           "name": "Seth McGowan",
-          "adds": 263088
+          "adds": 844456
         },
         {
-          "id": "13414",
-          "name": "Kaelon Black",
-          "adds": 163198
+          "id": "13298",
+          "name": "KC Concepcion Jr.",
+          "adds": 631494
         },
         {
           "id": "9480",
           "name": "Brenton Strange",
-          "adds": 151425
-        },
-        {
-          "id": "TB",
-          "name": "TB",
-          "adds": 134630
-        },
-        {
-          "id": "13345",
-          "name": "Jonah Coleman",
-          "adds": 118492
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 111608
-        },
-        {
-          "id": "13150",
-          "name": "Darius Cooper",
-          "adds": 91455
-        },
-        {
-          "id": "3214",
-          "name": "Hunter Henry",
-          "adds": 88584
+          "adds": 538956
         },
         {
           "id": "6130",
           "name": "Devin Singletary",
-          "adds": 86688
+          "adds": 422523
         },
         {
-          "id": "8129",
-          "name": "Dameon Pierce",
-          "adds": 84640
+          "id": "13345",
+          "name": "Jonah Coleman",
+          "adds": 420950
         },
         {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "adds": 84092
-        },
-        {
-          "id": "WAS",
-          "name": "WAS",
-          "adds": 73514
-        },
-        {
-          "id": "12498",
-          "name": "Mason Taylor",
-          "adds": 67810
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 372384
         },
         {
           "id": "7561",
           "name": "Elijah Mitchell",
-          "adds": 63549
+          "adds": 363996
         },
         {
-          "id": "11586",
-          "name": "Blake Corum",
-          "adds": 60608
+          "id": "WAS",
+          "name": "WAS",
+          "adds": 358064
         },
         {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "adds": 60300
+          "id": "13414",
+          "name": "Kaelon Black",
+          "adds": 333557
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 331230
+        },
+        {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "adds": 221924
+        },
+        {
+          "id": "3214",
+          "name": "Hunter Henry",
+          "adds": 202539
+        },
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "adds": 185060
+        },
+        {
+          "id": "8136",
+          "name": "Rachaad White",
+          "adds": 183873
         },
         {
           "id": "11637",
           "name": "Keon Coleman",
-          "adds": 58698
+          "adds": 177696
         },
         {
-          "id": "7021",
-          "name": "Rico Dowdle",
-          "adds": 47585
+          "id": "7042",
+          "name": "Tyler Bass",
+          "adds": 176420
+        },
+        {
+          "id": "12482",
+          "name": "Savion Williams",
+          "adds": 176106
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "adds": 174185
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "adds": 170232
         }
       ]
     },
@@ -427,13 +427,13 @@
           "slot": "QB"
         },
         {
-          "id": "4034",
-          "name": "Christian McCaffrey",
+          "id": "12495",
+          "name": "Ollie Gordon II",
           "slot": "RB"
         },
         {
-          "id": "12495",
-          "name": "Ollie Gordon II",
+          "id": "4034",
+          "name": "Christian McCaffrey",
           "slot": "RB"
         },
         {
@@ -447,34 +447,34 @@
           "slot": "WR"
         },
         {
-          "id": "3271",
-          "name": "Tyler Higbee",
+          "id": "9484",
+          "name": "Tucker Kraft",
           "slot": "TE"
         },
         {
-          "id": "12501",
-          "name": "Matthew Golden",
+          "id": "8146",
+          "name": "Garrett Wilson",
           "slot": "WRRB_FLEX"
         },
         {
-          "id": "12711",
-          "name": "Tyler Loop",
+          "id": "1945",
+          "name": "Chris Boswell",
           "slot": "K"
         },
         {
-          "id": "BAL",
-          "name": "BAL",
+          "id": "JAX",
+          "name": "JAX",
           "slot": "DEF"
         }
       ],
       "bench": [
         {
-          "id": "12519",
-          "name": "Luther Burden III"
+          "id": "12501",
+          "name": "Matthew Golden"
         },
         {
-          "id": "8146",
-          "name": "Garrett Wilson"
+          "id": "12519",
+          "name": "Luther Burden III"
         },
         {
           "id": "8155",
@@ -488,6 +488,156 @@
       "reserve": [],
       "opponent_roster_id": 2,
       "recent_transactions": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1793127938870,
+          "settings": null,
+          "leg": 8,
+          "draft_picks": [],
+          "creator": "873213336416833536",
+          "transaction_id": "1420885196303040512",
+          "adds": {
+            "8136": 10
+          },
+          "consenter_ids": [
+            10
+          ],
+          "drops": {
+            "8126": 10
+          },
+          "roster_ids": [
+            10
+          ],
+          "status_updated": 1793127938870,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1793127908442,
+          "settings": null,
+          "leg": 8,
+          "draft_picks": [],
+          "creator": "873213336416833536",
+          "transaction_id": "1420885068674514944",
+          "adds": {
+            "8126": 10
+          },
+          "consenter_ids": [
+            10
+          ],
+          "drops": {
+            "10235": 10
+          },
+          "roster_ids": [
+            10
+          ],
+          "status_updated": 1793127908442,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1793104362964,
+          "settings": null,
+          "leg": 8,
+          "draft_picks": [],
+          "creator": "1018776486419009536",
+          "transaction_id": "1420786311782014976",
+          "adds": {
+            "11539": 5
+          },
+          "consenter_ids": [
+            5
+          ],
+          "drops": {
+            "13545": 5
+          },
+          "roster_ids": [
+            5
+          ],
+          "status_updated": 1793104362964,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1793103691950,
+          "settings": null,
+          "leg": 8,
+          "draft_picks": [],
+          "creator": "1394804934028853248",
+          "transaction_id": "1420783497349459968",
+          "adds": {
+            "JAX": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "drops": {
+            "BAL": 1
+          },
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1793103691950,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1793103614110,
+          "settings": null,
+          "leg": 8,
+          "draft_picks": [],
+          "creator": "1394804934028853248",
+          "transaction_id": "1420783170864828416",
+          "adds": {
+            "1945": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "drops": {
+            "12711": 1
+          },
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1793103614110,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1793103467823,
+          "settings": null,
+          "leg": 8,
+          "draft_picks": [],
+          "creator": "1394804934028853248",
+          "transaction_id": "1420782557292724224",
+          "adds": {
+            "9484": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "drops": {
+            "3271": 1
+          },
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1793103467823,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "free_agent",
@@ -562,104 +712,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "JAX",
-          "name": "JAX",
-          "adds": 337422
+          "id": "13424",
+          "name": "Seth McGowan",
+          "adds": 844456
         },
         {
           "id": "13298",
           "name": "KC Concepcion Jr.",
-          "adds": 309672
-        },
-        {
-          "id": "13424",
-          "name": "Seth McGowan",
-          "adds": 263088
-        },
-        {
-          "id": "13414",
-          "name": "Kaelon Black",
-          "adds": 163198
+          "adds": 631494
         },
         {
           "id": "9480",
           "name": "Brenton Strange",
-          "adds": 151425
-        },
-        {
-          "id": "TB",
-          "name": "TB",
-          "adds": 134630
-        },
-        {
-          "id": "10213",
-          "name": "Tre Tucker",
-          "adds": 133746
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 111608
-        },
-        {
-          "id": "13150",
-          "name": "Darius Cooper",
-          "adds": 91455
+          "adds": 538956
         },
         {
           "id": "6130",
           "name": "Devin Singletary",
-          "adds": 86688
+          "adds": 422523
         },
         {
-          "id": "8129",
-          "name": "Dameon Pierce",
-          "adds": 84640
-        },
-        {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "adds": 84092
-        },
-        {
-          "id": "11435",
-          "name": "Emanuel Wilson",
-          "adds": 82836
-        },
-        {
-          "id": "WAS",
-          "name": "WAS",
-          "adds": 73514
-        },
-        {
-          "id": "12498",
-          "name": "Mason Taylor",
-          "adds": 67810
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 372384
         },
         {
           "id": "7561",
           "name": "Elijah Mitchell",
-          "adds": 63549
+          "adds": 363996
         },
         {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "adds": 60300
+          "id": "WAS",
+          "name": "WAS",
+          "adds": 358064
+        },
+        {
+          "id": "13414",
+          "name": "Kaelon Black",
+          "adds": 333557
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 331230
+        },
+        {
+          "id": "10213",
+          "name": "Tre Tucker",
+          "adds": 317136
+        },
+        {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "adds": 221924
+        },
+        {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "adds": 185060
         },
         {
           "id": "11637",
           "name": "Keon Coleman",
-          "adds": 58698
+          "adds": 177696
         },
         {
-          "id": "7021",
-          "name": "Rico Dowdle",
-          "adds": 47585
+          "id": "7042",
+          "name": "Tyler Bass",
+          "adds": 176420
         },
         {
-          "id": "8136",
-          "name": "Rachaad White",
-          "adds": 46344
+          "id": "12482",
+          "name": "Savion Williams",
+          "adds": 176106
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "adds": 174185
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "adds": 170232
+        },
+        {
+          "id": "8134",
+          "name": "Khalil Shakir",
+          "adds": 159228
+        },
+        {
+          "id": "8135",
+          "name": "Treylon Burks",
+          "adds": 142429
+        },
+        {
+          "id": "11435",
+          "name": "Emanuel Wilson",
+          "adds": 136062
         }
       ]
     }
