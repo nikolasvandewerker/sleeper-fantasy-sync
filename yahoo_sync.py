@@ -16,8 +16,13 @@ SEASON = 2026
 
 def request_json(url, token):
     req = Request(url, headers={"Authorization": "Bearer " + token, "Accept": "application/json"})
-    with urlopen(req, timeout=40) as response:
-        return json.load(response)
+    try:
+        with urlopen(req, timeout=40) as response:
+            return json.load(response)
+    except HTTPError as exc:
+        endpoint = url.split("?")[0].split("/fantasy/v2/")[-1]
+        print("Yahoo Fantasy endpoint denied: " + endpoint + " (HTTP " + str(exc.code) + ")", file=sys.stderr)
+        raise
 
 def refresh():
     client = os.environ["YAHOO_CLIENT_ID"].strip()
