@@ -160,8 +160,11 @@ def main():
         DEST.write_text(json.dumps(output, indent=2) + "\n", encoding="utf-8")
         print("Yahoo: saved sanitized snapshot with " + str(len(players)) + " rostered players.")
         return 0
-    except (HTTPError, URLError, TimeoutError, ValueError, KeyError) as exc:
-        print("Yahoo sync failed (" + type(exc).__name__ + "). Check OAuth secrets, API access and league selection.", file=sys.stderr)
+    except HTTPError as exc:
+        print("Yahoo sync failed: HTTP " + str(exc.code) + " at " + ("token refresh" if "get_token" in exc.url else "fantasy API") + ". No credentials or response bodies logged.", file=sys.stderr)
+        return 1
+    except (URLError, TimeoutError, ValueError, KeyError) as exc:
+        print("Yahoo sync failed (" + type(exc).__name__ + "): " + (str(exc) if isinstance(exc, ValueError) else "request or response error") + ".", file=sys.stderr)
         return 1
 
 if __name__ == "__main__":
