@@ -2,6 +2,7 @@
 import base64
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -22,6 +23,22 @@ def request_json(url, token):
     except HTTPError as exc:
         endpoint = url.split("?")[0].split("/fantasy/v2/")[-1]
         print("Yahoo Fantasy endpoint denied: " + endpoint + " (HTTP " + str(exc.code) + ")", file=sys.stderr)
+        # Extract only short, machine-readable error identifiers; never log raw bodies.
+        try:
+            payload = json.loads(exc.read(8192).decode("utf-8", errors="replace"))
+            if isinstance(payload, dict):
+                error = payload.get("error", {})
+                candidates = [payload.get("code"), payload.get("error_code")]
+                if isinstance(error, dict):
+                    candidates += [error.get("code"), error.get("error_code")]
+                elif isinstance(error, str):
+                    candidates.append(error)
+                for candidate in candidates:
+                    if isinstance(candidate, (str, int)) and re.fullmatch(r"[A-Za-z0-9_.-]{1,64}", str(candidate)):
+                        print("Yahoo API error code: " + str(candidate), file=sys.stderr)
+                        break
+        except (ValueError, UnicodeError, OSError):
+            pass
         raise
 
 def refresh():
