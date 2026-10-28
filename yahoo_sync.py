@@ -94,7 +94,19 @@ def main():
             return 1
     try:
         token = refresh()
-        data = request_json(API + "/users;use_login=1/games;game_codes=nfl?format=json", token)
+        try:
+            data = request_json(API + "/users;use_login=1/games;game_codes=nfl?format=json", token)
+        except HTTPError as primary_error:
+            if primary_error.code == 403:
+                # Diagnostic only: compare a public game endpoint with the account endpoint.
+                try:
+                    request_json(API + "/game/nfl?format=json", token)
+                    print("Yahoo diagnostic: public game endpoint succeeded; account-scoped endpoint denied.", file=sys.stderr)
+                except HTTPError as probe_error:
+                    print("Yahoo diagnostic: public game endpoint HTTP " + str(probe_error.code) + ".", file=sys.stderr)
+                except (URLError, TimeoutError, ValueError):
+                    print("Yahoo diagnostic: public game endpoint could not be evaluated.", file=sys.stderr)
+            raise
         games = [g for g in objects(data, "game") if str(first(g, "season", "")) == str(SEASON)]
         if not games:
             raise ValueError("No Yahoo NFL game for the requested season")
