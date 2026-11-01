@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-31T11:57:54.885786+00:00",
+  "updated_at_utc": "2026-11-01T11:57:08.066383+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
@@ -428,7 +428,7 @@
               "player_id": 4032473,
               "name": "Rashid Shaheed",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 26,
               "default_position_id": 3
             },
@@ -1403,8 +1403,8 @@
             {
               "player_id": 4047646,
               "name": "A.J. Brown",
-              "lineup_slot_id": 3,
-              "injury_status": "QUESTIONABLE",
+              "lineup_slot_id": 20,
+              "injury_status": "OUT",
               "pro_team_id": 17,
               "default_position_id": 3
             },
@@ -1420,14 +1420,14 @@
               "player_id": 4723086,
               "name": "Colston Loveland",
               "lineup_slot_id": 6,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 3,
               "default_position_id": 4
             },
             {
               "player_id": 4569618,
               "name": "Garrett Wilson",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 3,
               "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 3
@@ -1444,7 +1444,7 @@
               "player_id": 4432710,
               "name": "TreVeyon Henderson",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 17,
               "default_position_id": 2
             },
@@ -1468,7 +1468,7 @@
               "player_id": 4608686,
               "name": "Kyle Monangai",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 3,
               "default_position_id": 2
             },
@@ -1597,7 +1597,7 @@
               "player_id": 4426385,
               "name": "Zach Charbonnet",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 26,
               "default_position_id": 2
             },
@@ -2176,7 +2176,7 @@
             {
               "player_id": 4567750,
               "name": "Emeka Egbuka",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "OUT",
               "pro_team_id": 27,
               "default_position_id": 3
@@ -2248,7 +2248,7 @@
             {
               "player_id": 4047650,
               "name": "DK Metcalf",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 23,
               "default_position_id": 3
@@ -2402,7 +2402,7 @@
               "player_id": 4426385,
               "name": "Zach Charbonnet",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 26,
               "default_position_id": 2
             },
@@ -2491,7 +2491,7 @@
               "player_id": 4432710,
               "name": "TreVeyon Henderson",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 17,
               "default_position_id": 2
             },
@@ -2555,7 +2555,7 @@
               "player_id": 4568490,
               "name": "RJ Harvey",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "INJURY_RESERVE",
               "pro_team_id": 7,
               "default_position_id": 2
             },
@@ -3111,7 +3111,7 @@
               "player_id": 4608686,
               "name": "Kyle Monangai",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 3,
               "default_position_id": 2
             },
@@ -3192,7 +3192,7 @@
               "player_id": 4723086,
               "name": "Colston Loveland",
               "lineup_slot_id": 6,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 3,
               "default_position_id": 4
             },
@@ -3321,7 +3321,7 @@
               "player_id": 4047646,
               "name": "A.J. Brown",
               "lineup_slot_id": 4,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 17,
               "default_position_id": 3
             },
