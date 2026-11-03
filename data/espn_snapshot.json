@@ -1,11 +1,11 @@
 {
-  "updated_at_utc": "2026-11-02T12:16:22.579652+00:00",
+  "updated_at_utc": "2026-11-03T12:09:16.069902+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
       "league_name": "2026 Pop-a-Top",
       "season": 2026,
-      "week": 8,
+      "week": 9,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -348,7 +348,7 @@
         {
           "team_id": 1,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 3
           },
           "roster": [
@@ -396,7 +396,7 @@
               "player_id": 12483,
               "name": "Matthew Stafford",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 14,
               "default_position_id": 1
             },
@@ -477,7 +477,7 @@
         {
           "team_id": 3,
           "record": {
-            "wins": 2,
+            "wins": 3,
             "losses": 5
           },
           "roster": [
@@ -606,7 +606,7 @@
         {
           "team_id": 4,
           "record": {
-            "wins": 1,
+            "wins": 2,
             "losses": 6
           },
           "roster": [
@@ -735,7 +735,7 @@
         {
           "team_id": 6,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 2
           },
           "roster": [
@@ -865,7 +865,7 @@
           "team_id": 7,
           "record": {
             "wins": 5,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -994,7 +994,7 @@
           "team_id": 8,
           "record": {
             "wins": 2,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -1041,7 +1041,7 @@
               "player_id": 4882093,
               "name": "Bhayshul Tuten",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 30,
               "default_position_id": 2
             },
@@ -1123,7 +1123,7 @@
           "team_id": 9,
           "record": {
             "wins": 4,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -1251,7 +1251,7 @@
         {
           "team_id": 13,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 3
           },
           "roster": [
@@ -1381,7 +1381,7 @@
           "team_id": 14,
           "record": {
             "wins": 4,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -1510,7 +1510,7 @@
           "team_id": 15,
           "record": {
             "wins": 4,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -1641,7 +1641,7 @@
       "league_id": 415719,
       "league_name": "MUDCATS",
       "season": 2026,
-      "week": 8,
+      "week": 9,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -2000,7 +2000,7 @@
         {
           "team_id": 1,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 1
           },
           "roster": [
@@ -2088,7 +2088,7 @@
               "player_id": 3916433,
               "name": "Jakobi Meyers",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 30,
               "default_position_id": 3
             },
@@ -2145,7 +2145,7 @@
         {
           "team_id": 2,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 2
           },
           "roster": [
@@ -2185,7 +2185,7 @@
               "player_id": 4882093,
               "name": "Bhayshul Tuten",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 30,
               "default_position_id": 2
             },
@@ -2200,7 +2200,7 @@
             {
               "player_id": 16737,
               "name": "Mike Evans",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 25,
               "default_position_id": 3
@@ -2208,7 +2208,7 @@
             {
               "player_id": 4361050,
               "name": "Isaiah Likely",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 19,
               "default_position_id": 4
@@ -2225,7 +2225,7 @@
               "player_id": 4697745,
               "name": "Tyler Loop",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 33,
               "default_position_id": 5
             },
@@ -2272,7 +2272,7 @@
             {
               "player_id": 4808766,
               "name": "Mason Taylor",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 4
@@ -2280,7 +2280,7 @@
             {
               "player_id": 3915416,
               "name": "DJ Moore",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 2,
               "default_position_id": 3
@@ -2291,7 +2291,7 @@
           "team_id": 3,
           "record": {
             "wins": 1,
-            "losses": 6
+            "losses": 7
           },
           "roster": [
             {
@@ -2313,7 +2313,7 @@
             {
               "player_id": 4595348,
               "name": "Malik Nabers",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 19,
               "default_position_id": 3
@@ -2353,7 +2353,7 @@
             {
               "player_id": 4695883,
               "name": "Jalen Coker",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 29,
               "default_position_id": 3
@@ -2436,7 +2436,7 @@
           "team_id": 5,
           "record": {
             "wins": 5,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -2580,7 +2580,7 @@
         {
           "team_id": 6,
           "record": {
-            "wins": 3,
+            "wins": 4,
             "losses": 4
           },
           "roster": [
@@ -2726,7 +2726,7 @@
           "team_id": 7,
           "record": {
             "wins": 2,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -2781,7 +2781,7 @@
               "player_id": 12483,
               "name": "Matthew Stafford",
               "lineup_slot_id": 0,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 14,
               "default_position_id": 1
             },
@@ -2870,14 +2870,14 @@
         {
           "team_id": 8,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 3
           },
           "roster": [
             {
               "player_id": 3117251,
               "name": "Christian McCaffrey",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 2,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 25,
               "default_position_id": 2
@@ -2885,7 +2885,7 @@
             {
               "player_id": 4262921,
               "name": "Justin Jefferson",
-              "lineup_slot_id": 3,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 16,
               "default_position_id": 3
@@ -2893,7 +2893,7 @@
             {
               "player_id": 4258173,
               "name": "Nico Collins",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 34,
               "default_position_id": 3
@@ -2909,7 +2909,7 @@
             {
               "player_id": 4429615,
               "name": "Zay Flowers",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 33,
               "default_position_id": 3
@@ -2917,7 +2917,7 @@
             {
               "player_id": 4259545,
               "name": "D'Andre Swift",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 3,
               "injury_status": "ACTIVE",
               "pro_team_id": 3,
               "default_position_id": 2
@@ -2925,7 +2925,7 @@
             {
               "player_id": 3040151,
               "name": "George Kittle",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 25,
               "default_position_id": 4
@@ -2933,7 +2933,7 @@
             {
               "player_id": 4362081,
               "name": "Cameron Dicker",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 17,
               "injury_status": "ACTIVE",
               "pro_team_id": 24,
               "default_position_id": 5
@@ -2941,7 +2941,7 @@
             {
               "player_id": 4572680,
               "name": "Tucker Kraft",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 9,
               "default_position_id": 4
@@ -2957,7 +2957,7 @@
             {
               "player_id": -16023,
               "name": "Steelers D/ST",
-              "lineup_slot_id": 16,
+              "lineup_slot_id": 20,
               "injury_status": null,
               "pro_team_id": 23,
               "default_position_id": 16
@@ -2981,7 +2981,7 @@
             {
               "player_id": -16008,
               "name": "Lions D/ST",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 16,
               "injury_status": null,
               "pro_team_id": 8,
               "default_position_id": 16
@@ -2989,7 +2989,7 @@
             {
               "player_id": 17372,
               "name": "Chris Boswell",
-              "lineup_slot_id": 17,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 23,
               "default_position_id": 5
@@ -3005,7 +3005,7 @@
             {
               "player_id": 4870653,
               "name": "KC Concepcion",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 5,
               "default_position_id": 3
@@ -3015,7 +3015,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 3
           },
           "roster": [
@@ -3161,7 +3161,7 @@
           "team_id": 10,
           "record": {
             "wins": 3,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -3306,7 +3306,7 @@
           "team_id": 11,
           "record": {
             "wins": 2,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {

@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-11-02T12:16:22.058818+00:00",
+  "updated_at_utc": "2026-11-03T12:09:14.775962+00:00",
   "season": "2026",
-  "week": 8,
+  "week": 9,
   "leagues": {
     "Pour Boiz": {
       "league_id": "1393422439593021442",
       "roster_id": 6,
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 4
       },
       "scoring": {
@@ -248,327 +248,108 @@
         }
       ],
       "reserve": [],
-      "opponent_roster_id": 3,
-      "recent_transactions": [
-        {
-          "status": "complete",
-          "type": "waiver",
-          "metadata": {
-            "notes": "Your waiver claim was processed successfully!"
-          },
-          "created": 1793440695480,
-          "settings": {
-            "seq": 0
-          },
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1389823443402235904",
-          "transaction_id": "1422196992603394048",
-          "adds": {
-            "1479": 5
-          },
-          "consenter_ids": [
-            5
-          ],
-          "drops": null,
-          "roster_ids": [
-            5
-          ],
-          "status_updated": 1793516889225,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793440682554,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1389823443402235904",
-          "transaction_id": "1422196938387820544",
-          "adds": null,
-          "consenter_ids": [
-            5
-          ],
-          "drops": {
-            "5892": 5
-          },
-          "roster_ids": [
-            5
-          ],
-          "status_updated": 1793440682554,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "waiver",
-          "metadata": {
-            "notes": "Your waiver claim was processed successfully!"
-          },
-          "created": 1793416777740,
-          "settings": {
-            "seq": 0
-          },
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "831223917896110080",
-          "transaction_id": "1422096674326650880",
-          "adds": {
-            "7042": 4
-          },
-          "consenter_ids": [
-            4
-          ],
-          "drops": {
-            "3451": 4
-          },
-          "roster_ids": [
-            4
-          ],
-          "status_updated": 1793430479439,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "waiver",
-          "metadata": {
-            "notes": "Your waiver claim was processed successfully!"
-          },
-          "created": 1793236712392,
-          "settings": {
-            "seq": 4
-          },
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1207542024094355456",
-          "transaction_id": "1421341425517252608",
-          "adds": {
-            "WAS": 7
-          },
-          "consenter_ids": [
-            7
-          ],
-          "drops": {
-            "6804": 7
-          },
-          "roster_ids": [
-            7
-          ],
-          "status_updated": 1793257688961,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "waiver",
-          "metadata": {
-            "notes": "Your waiver claim was processed successfully!"
-          },
-          "created": 1793236671545,
-          "settings": {
-            "seq": 2
-          },
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1207542024094355456",
-          "transaction_id": "1421341254196686848",
-          "adds": {
-            "11586": 7
-          },
-          "consenter_ids": [
-            7
-          ],
-          "drops": null,
-          "roster_ids": [
-            7
-          ],
-          "status_updated": 1793257688961,
-          "waiver_budget": []
-        },
-        {
-          "status": "failed",
-          "type": "waiver",
-          "metadata": {
-            "notes": "This player was claimed by another owner."
-          },
-          "created": 1793236656537,
-          "settings": {
-            "seq": 3
-          },
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1397669714943094784",
-          "transaction_id": "1421341191248613376",
-          "adds": {
-            "11586": 8
-          },
-          "consenter_ids": [
-            8
-          ],
-          "drops": null,
-          "roster_ids": [
-            8
-          ],
-          "status_updated": 1793257688961,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "waiver",
-          "metadata": {
-            "notes": "Your waiver claim was processed successfully!"
-          },
-          "created": 1793236649670,
-          "settings": {
-            "seq": 0
-          },
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1207542024094355456",
-          "transaction_id": "1421341162442092544",
-          "adds": {
-            "12507": 7
-          },
-          "consenter_ids": [
-            7
-          ],
-          "drops": null,
-          "roster_ids": [
-            7
-          ],
-          "status_updated": 1793257688961,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "waiver",
-          "metadata": {
-            "notes": "Your waiver claim was processed successfully!"
-          },
-          "created": 1793236514401,
-          "settings": {
-            "seq": 1
-          },
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1397669714943094784",
-          "transaction_id": "1421340595082801152",
-          "adds": {
-            "5947": 8
-          },
-          "consenter_ids": [
-            8
-          ],
-          "drops": {
-            "9502": 8
-          },
-          "roster_ids": [
-            8
-          ],
-          "status_updated": 1793257688961,
-          "waiver_budget": []
-        }
-      ],
+      "opponent_roster_id": 4,
+      "recent_transactions": [],
       "unrostered_trending_adds": [
-        {
-          "id": "6130",
-          "name": "Devin Singletary",
-          "adds": 562248
-        },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 441576
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 248152
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 214948
-        },
-        {
-          "id": "13337",
-          "name": "Emmett Johnson",
-          "adds": 203796
-        },
-        {
-          "id": "13424",
-          "name": "Seth McGowan",
-          "adds": 182616
-        },
-        {
-          "id": "12491",
-          "name": "Corey Kiner",
-          "adds": 177030
+          "adds": 733472
         },
         {
           "id": "6011",
           "name": "Gardner Minshew II",
-          "adds": 147436
+          "adds": 528616
         },
         {
-          "id": "TB",
-          "name": "TB",
-          "adds": 135930
+          "id": "13337",
+          "name": "Emmett Johnson",
+          "adds": 323469
         },
         {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "adds": 134804
+          "id": "6130",
+          "name": "Devin Singletary",
+          "adds": 225846
         },
         {
           "id": "DET",
           "name": "DET",
-          "adds": 103788
+          "adds": 155763
         },
         {
-          "id": "11647",
-          "name": "Kimani Vidal",
-          "adds": 96885
+          "id": "HOU",
+          "name": "HOU",
+          "adds": 145960
         },
         {
-          "id": "4039",
-          "name": "Cooper Kupp",
-          "adds": 91962
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 113568
         },
         {
-          "id": "12547",
-          "name": "Kyle Williams",
-          "adds": 90885
-        },
-        {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 88182
+          "id": "8135",
+          "name": "Treylon Burks",
+          "adds": 84091
         },
         {
           "id": "1166",
           "name": "Kirk Cousins",
-          "adds": 87264
+          "adds": 83280
         },
         {
           "id": "7567",
           "name": "Kenny Gainwell",
-          "adds": 85696
+          "adds": 83168
         },
         {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "adds": 81189
+          "id": "8161",
+          "name": "Malik Willis",
+          "adds": 78365
         },
         {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 79088
+          "id": "13286",
+          "name": "Jadarian Price",
+          "adds": 61344
         },
         {
-          "id": "7561",
-          "name": "Elijah Mitchell",
-          "adds": 75870
+          "id": "NO",
+          "name": "NO",
+          "adds": 55320
+        },
+        {
+          "id": "11729",
+          "name": "Sione Vaki",
+          "adds": 53802
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 52095
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "adds": 51180
+        },
+        {
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 51058
+        },
+        {
+          "id": "12540",
+          "name": "Chimere Dike",
+          "adds": 48717
+        },
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "adds": 47772
+        },
+        {
+          "id": "13305",
+          "name": "Mike Washington Jr.",
+          "adds": 43918
         }
       ]
     },
@@ -576,7 +357,7 @@
       "league_id": "1401329866044878848",
       "roster_id": 1,
       "record": {
-        "wins": 6,
+        "wins": 7,
         "losses": 1
       },
       "scoring": {
@@ -705,453 +486,108 @@
         }
       ],
       "reserve": [],
-      "opponent_roster_id": 2,
-      "recent_transactions": [
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793566397717,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1401590395703427072",
-          "transaction_id": "1422724225998798848",
-          "adds": {
-            "13968": 9
-          },
-          "drops": {
-            "12474": 9
-          },
-          "consenter_ids": [
-            9
-          ],
-          "roster_ids": [
-            9
-          ],
-          "status_updated": 1793566397717,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793566303848,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1401590395703427072",
-          "transaction_id": "1422723832279494656",
-          "adds": {
-            "WAS": 9
-          },
-          "drops": {
-            "5859": 9
-          },
-          "consenter_ids": [
-            9
-          ],
-          "roster_ids": [
-            9
-          ],
-          "status_updated": 1793566303848,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793566301832,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1401346292503863296",
-          "transaction_id": "1422723823827955712",
-          "adds": {
-            "6039": 3
-          },
-          "drops": null,
-          "consenter_ids": [
-            3
-          ],
-          "roster_ids": [
-            3
-          ],
-          "status_updated": 1793566301832,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793217592988,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1257875780155744256",
-          "transaction_id": "1421261232928739328",
-          "adds": {
-            "11566": 7
-          },
-          "drops": {
-            "11563": 7
-          },
-          "consenter_ids": [
-            7
-          ],
-          "roster_ids": [
-            7
-          ],
-          "status_updated": 1793217592988,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793217534770,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1257875780155744256",
-          "transaction_id": "1421260988744753152",
-          "adds": {
-            "8110": 7
-          },
-          "drops": {
-            "12533": 7
-          },
-          "consenter_ids": [
-            7
-          ],
-          "roster_ids": [
-            7
-          ],
-          "status_updated": 1793217534770,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793127938870,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "873213336416833536",
-          "transaction_id": "1420885196303040512",
-          "adds": {
-            "8136": 10
-          },
-          "drops": {
-            "8126": 10
-          },
-          "consenter_ids": [
-            10
-          ],
-          "roster_ids": [
-            10
-          ],
-          "status_updated": 1793127938870,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793127908442,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "873213336416833536",
-          "transaction_id": "1420885068674514944",
-          "adds": {
-            "8126": 10
-          },
-          "drops": {
-            "10235": 10
-          },
-          "consenter_ids": [
-            10
-          ],
-          "roster_ids": [
-            10
-          ],
-          "status_updated": 1793127908442,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793104362964,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1018776486419009536",
-          "transaction_id": "1420786311782014976",
-          "adds": {
-            "11539": 5
-          },
-          "drops": {
-            "13545": 5
-          },
-          "consenter_ids": [
-            5
-          ],
-          "roster_ids": [
-            5
-          ],
-          "status_updated": 1793104362964,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793103691950,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1394804934028853248",
-          "transaction_id": "1420783497349459968",
-          "adds": {
-            "JAX": 1
-          },
-          "drops": {
-            "BAL": 1
-          },
-          "consenter_ids": [
-            1
-          ],
-          "roster_ids": [
-            1
-          ],
-          "status_updated": 1793103691950,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793103614110,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1394804934028853248",
-          "transaction_id": "1420783170864828416",
-          "adds": {
-            "1945": 1
-          },
-          "drops": {
-            "12711": 1
-          },
-          "consenter_ids": [
-            1
-          ],
-          "roster_ids": [
-            1
-          ],
-          "status_updated": 1793103614110,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793103467823,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1394804934028853248",
-          "transaction_id": "1420782557292724224",
-          "adds": {
-            "9484": 1
-          },
-          "drops": {
-            "3271": 1
-          },
-          "consenter_ids": [
-            1
-          ],
-          "roster_ids": [
-            1
-          ],
-          "status_updated": 1793103467823,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793101780781,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "868144062836936704",
-          "transaction_id": "1420775481321517056",
-          "adds": {
-            "5844": 6
-          },
-          "drops": {
-            "12536": 6
-          },
-          "consenter_ids": [
-            6
-          ],
-          "roster_ids": [
-            6
-          ],
-          "status_updated": 1793101780781,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793100050094,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1018776486419009536",
-          "transaction_id": "1420768222298292224",
-          "adds": {
-            "2449": 5
-          },
-          "drops": null,
-          "consenter_ids": [
-            5
-          ],
-          "roster_ids": [
-            5
-          ],
-          "status_updated": 1793100050094,
-          "waiver_budget": []
-        },
-        {
-          "status": "complete",
-          "type": "free_agent",
-          "metadata": null,
-          "created": 1793099967483,
-          "settings": null,
-          "leg": 8,
-          "draft_picks": [],
-          "creator": "1018776486419009536",
-          "transaction_id": "1420767875802648576",
-          "adds": null,
-          "drops": {
-            "96": 5
-          },
-          "consenter_ids": [
-            5
-          ],
-          "roster_ids": [
-            5
-          ],
-          "status_updated": 1793099967483,
-          "waiver_budget": []
-        }
-      ],
+      "opponent_roster_id": 8,
+      "recent_transactions": [],
       "unrostered_trending_adds": [
-        {
-          "id": "6130",
-          "name": "Devin Singletary",
-          "adds": 562248
-        },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 441576
-        },
-        {
-          "id": "8132",
-          "name": "Tyler Allgeier",
-          "adds": 254550
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 248152
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 214948
-        },
-        {
-          "id": "13337",
-          "name": "Emmett Johnson",
-          "adds": 203796
-        },
-        {
-          "id": "13424",
-          "name": "Seth McGowan",
-          "adds": 182616
-        },
-        {
-          "id": "12491",
-          "name": "Corey Kiner",
-          "adds": 177030
+          "adds": 733472
         },
         {
           "id": "6011",
           "name": "Gardner Minshew II",
-          "adds": 147436
+          "adds": 528616
         },
         {
-          "id": "TB",
-          "name": "TB",
-          "adds": 135930
+          "id": "8132",
+          "name": "Tyler Allgeier",
+          "adds": 453820
         },
         {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "adds": 134804
+          "id": "13337",
+          "name": "Emmett Johnson",
+          "adds": 323469
         },
         {
-          "id": "7042",
-          "name": "Tyler Bass",
-          "adds": 116965
+          "id": "6130",
+          "name": "Devin Singletary",
+          "adds": 225846
         },
         {
           "id": "DET",
           "name": "DET",
-          "adds": 103788
+          "adds": 155763
         },
         {
-          "id": "11647",
-          "name": "Kimani Vidal",
-          "adds": 96885
+          "id": "7042",
+          "name": "Tyler Bass",
+          "adds": 123200
         },
         {
-          "id": "4039",
-          "name": "Cooper Kupp",
-          "adds": 91962
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 113568
         },
         {
-          "id": "12547",
-          "name": "Kyle Williams",
-          "adds": 90885
+          "id": "4993",
+          "name": "Mike Gesicki",
+          "adds": 102916
         },
         {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 88182
+          "id": "8135",
+          "name": "Treylon Burks",
+          "adds": 84091
+        },
+        {
+          "id": "11610",
+          "name": "Malik Washington",
+          "adds": 83728
         },
         {
           "id": "7567",
           "name": "Kenny Gainwell",
-          "adds": 85696
+          "adds": 83168
         },
         {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "adds": 81189
+          "id": "8161",
+          "name": "Malik Willis",
+          "adds": 78365
         },
         {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 79088
+          "id": "NO",
+          "name": "NO",
+          "adds": 55320
+        },
+        {
+          "id": "SF",
+          "name": "SF",
+          "adds": 54645
+        },
+        {
+          "id": "11729",
+          "name": "Sione Vaki",
+          "adds": 53802
+        },
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "adds": 51180
+        },
+        {
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 51058
+        },
+        {
+          "id": "12540",
+          "name": "Chimere Dike",
+          "adds": 48717
+        },
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "adds": 47772
         }
       ]
     }
