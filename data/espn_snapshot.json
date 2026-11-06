@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-05T12:17:44.093064+00:00",
+  "updated_at_utc": "2026-11-06T12:13:09.038427+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
@@ -395,7 +395,7 @@
             {
               "player_id": 12483,
               "name": "Matthew Stafford",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 0,
               "injury_status": "ACTIVE",
               "pro_team_id": 14,
               "default_position_id": 1
@@ -403,8 +403,8 @@
             {
               "player_id": 4385690,
               "name": "Dalton Kincaid",
-              "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "lineup_slot_id": 6,
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 2,
               "default_position_id": 4
             },
@@ -427,23 +427,15 @@
             {
               "player_id": 4032473,
               "name": "Rashid Shaheed",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 26,
               "default_position_id": 3
             },
             {
-              "player_id": -16028,
-              "name": "Commanders D/ST",
-              "lineup_slot_id": 16,
-              "injury_status": null,
-              "pro_team_id": 28,
-              "default_position_id": 16
-            },
-            {
               "player_id": 2976212,
               "name": "Stefon Diggs",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 28,
               "default_position_id": 3
@@ -459,18 +451,26 @@
             {
               "player_id": 4808766,
               "name": "Mason Taylor",
-              "lineup_slot_id": 6,
-              "injury_status": "QUESTIONABLE",
+              "lineup_slot_id": 20,
+              "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 4
             },
             {
               "player_id": 15864,
               "name": "Geno Smith",
-              "lineup_slot_id": 0,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 1
+            },
+            {
+              "player_id": -16019,
+              "name": "Giants D/ST",
+              "lineup_slot_id": 16,
+              "injury_status": null,
+              "pro_team_id": 19,
+              "default_position_id": 16
             }
           ]
         },
@@ -509,7 +509,7 @@
               "player_id": 4567750,
               "name": "Emeka Egbuka",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 27,
               "default_position_id": 3
             },
@@ -524,7 +524,7 @@
             {
               "player_id": 4569987,
               "name": "Jaylen Warren",
-              "lineup_slot_id": 3,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 23,
               "default_position_id": 2
@@ -532,7 +532,7 @@
             {
               "player_id": 3116164,
               "name": "Mike Gesicki",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 4,
               "default_position_id": 4
@@ -540,7 +540,7 @@
             {
               "player_id": 4696044,
               "name": "Kaelon Black",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 3,
               "injury_status": "ACTIVE",
               "pro_team_id": 25,
               "default_position_id": 2
@@ -564,7 +564,7 @@
             {
               "player_id": 4361411,
               "name": "Pat Freiermuth",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 23,
               "default_position_id": 4
@@ -630,7 +630,7 @@
               "player_id": 4427366,
               "name": "Breece Hall",
               "lineup_slot_id": 2,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 2
             },
@@ -653,7 +653,7 @@
             {
               "player_id": 16737,
               "name": "Mike Evans",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 25,
               "default_position_id": 3
@@ -670,7 +670,7 @@
               "player_id": 15847,
               "name": "Travis Kelce",
               "lineup_slot_id": 6,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 4
             },
@@ -715,20 +715,20 @@
               "default_position_id": 2
             },
             {
-              "player_id": 4597703,
-              "name": "Tory Horton",
-              "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
-              "pro_team_id": 26,
-              "default_position_id": 3
-            },
-            {
               "player_id": 5082424,
               "name": "Dominic Zvada",
               "lineup_slot_id": 17,
               "injury_status": "ACTIVE",
               "pro_team_id": 19,
               "default_position_id": 5
+            },
+            {
+              "player_id": 4360761,
+              "name": "Michael Wilson",
+              "lineup_slot_id": 4,
+              "injury_status": "QUESTIONABLE",
+              "pro_team_id": 22,
+              "default_position_id": 3
             }
           ]
         },
@@ -759,7 +759,7 @@
               "player_id": 4595348,
               "name": "Malik Nabers",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 19,
               "default_position_id": 3
             },
@@ -1041,7 +1041,7 @@
               "player_id": 4882093,
               "name": "Bhayshul Tuten",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 30,
               "default_position_id": 2
             },
@@ -1049,7 +1049,7 @@
               "player_id": 5083076,
               "name": "Harold Fannin Jr.",
               "lineup_slot_id": 6,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 5,
               "default_position_id": 4
             },
@@ -1280,14 +1280,6 @@
               "default_position_id": 4
             },
             {
-              "player_id": 3916387,
-              "name": "Lamar Jackson",
-              "lineup_slot_id": 0,
-              "injury_status": "OUT",
-              "pro_team_id": 33,
-              "default_position_id": 1
-            },
-            {
               "player_id": 4696981,
               "name": "Cam Skattebo",
               "lineup_slot_id": 20,
@@ -1371,9 +1363,17 @@
               "player_id": 4428331,
               "name": "Rashee Rice",
               "lineup_slot_id": 4,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 3
+            },
+            {
+              "player_id": 4426338,
+              "name": "Bo Nix",
+              "lineup_slot_id": 0,
+              "injury_status": "ACTIVE",
+              "pro_team_id": 7,
+              "default_position_id": 1
             }
           ]
         },
@@ -2029,14 +2029,6 @@
               "default_position_id": 2
             },
             {
-              "player_id": 3916387,
-              "name": "Lamar Jackson",
-              "lineup_slot_id": 20,
-              "injury_status": "OUT",
-              "pro_team_id": 33,
-              "default_position_id": 1
-            },
-            {
               "player_id": 4239993,
               "name": "Tee Higgins",
               "lineup_slot_id": 4,
@@ -2056,7 +2048,7 @@
               "player_id": 5083076,
               "name": "Harold Fannin Jr.",
               "lineup_slot_id": 6,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 5,
               "default_position_id": 4
             },
@@ -2139,6 +2131,14 @@
               "injury_status": "ACTIVE",
               "pro_team_id": 16,
               "default_position_id": 2
+            },
+            {
+              "player_id": 3924327,
+              "name": "Drew Lock",
+              "lineup_slot_id": 20,
+              "injury_status": "QUESTIONABLE",
+              "pro_team_id": 26,
+              "default_position_id": 1
             }
           ]
         },
@@ -2177,7 +2177,7 @@
               "player_id": 4567750,
               "name": "Emeka Egbuka",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 27,
               "default_position_id": 3
             },
@@ -2185,7 +2185,7 @@
               "player_id": 4882093,
               "name": "Bhayshul Tuten",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 30,
               "default_position_id": 2
             },
@@ -2200,7 +2200,7 @@
             {
               "player_id": 16737,
               "name": "Mike Evans",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 25,
               "default_position_id": 3
@@ -2262,17 +2262,9 @@
               "default_position_id": 5
             },
             {
-              "player_id": 4808766,
-              "name": "Mason Taylor",
-              "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
-              "pro_team_id": 20,
-              "default_position_id": 4
-            },
-            {
               "player_id": 3915416,
               "name": "DJ Moore",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 2,
               "default_position_id": 3
@@ -2284,6 +2276,14 @@
               "injury_status": null,
               "pro_team_id": 2,
               "default_position_id": 16
+            },
+            {
+              "player_id": 3046439,
+              "name": "Hunter Henry",
+              "lineup_slot_id": 20,
+              "injury_status": "QUESTIONABLE",
+              "pro_team_id": 17,
+              "default_position_id": 4
             }
           ]
         },
@@ -2305,7 +2305,7 @@
             {
               "player_id": 4569618,
               "name": "Garrett Wilson",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 20,
               "default_position_id": 3
@@ -2314,7 +2314,7 @@
               "player_id": 4595348,
               "name": "Malik Nabers",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 19,
               "default_position_id": 3
             },
@@ -2353,7 +2353,7 @@
             {
               "player_id": 4695883,
               "name": "Jalen Coker",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 29,
               "default_position_id": 3
@@ -2393,7 +2393,7 @@
             {
               "player_id": 4360248,
               "name": "Kyle Pitts Sr.",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 1,
               "default_position_id": 4
@@ -2425,7 +2425,7 @@
             {
               "player_id": 3116164,
               "name": "Mike Gesicki",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 4,
               "default_position_id": 4
@@ -2829,7 +2829,7 @@
               "player_id": 4385690,
               "name": "Dalton Kincaid",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 2,
               "default_position_id": 4
             },
@@ -2901,7 +2901,7 @@
             {
               "player_id": 4431452,
               "name": "Drake Maye",
-              "lineup_slot_id": 0,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 17,
               "default_position_id": 1
@@ -2973,7 +2973,7 @@
             {
               "player_id": 4361741,
               "name": "Brock Purdy",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 0,
               "injury_status": "ACTIVE",
               "pro_team_id": 25,
               "default_position_id": 1
@@ -3070,7 +3070,7 @@
             {
               "player_id": -16034,
               "name": "Texans D/ST",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 16,
               "injury_status": null,
               "pro_team_id": 34,
               "default_position_id": 16
@@ -3119,7 +3119,7 @@
               "player_id": 4635008,
               "name": "Keon Coleman",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 2,
               "default_position_id": 3
             },
@@ -3142,7 +3142,7 @@
             {
               "player_id": -16027,
               "name": "Buccaneers D/ST",
-              "lineup_slot_id": 16,
+              "lineup_slot_id": 20,
               "injury_status": null,
               "pro_team_id": 27,
               "default_position_id": 16
@@ -3184,7 +3184,7 @@
               "player_id": 4428331,
               "name": "Rashee Rice",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 3
             },
@@ -3345,7 +3345,7 @@
               "player_id": 4427366,
               "name": "Breece Hall",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 2
             },
@@ -3377,7 +3377,7 @@
               "player_id": 15847,
               "name": "Travis Kelce",
               "lineup_slot_id": 6,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 4
             },
