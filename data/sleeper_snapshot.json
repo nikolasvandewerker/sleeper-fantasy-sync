@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-06T12:13:07.895322+00:00",
+  "updated_at_utc": "2026-11-07T12:00:23.918276+00:00",
   "season": "2026",
   "week": 9,
   "leagues": {
@@ -256,6 +256,62 @@
           "metadata": {
             "notes": "Your waiver claim was processed successfully!"
           },
+          "created": 1793969666785,
+          "settings": {
+            "seq": 1
+          },
+          "leg": 9,
+          "draft_picks": [],
+          "creator": "1397669714943094784",
+          "transaction_id": "1424415659059646464",
+          "adds": {
+            "5844": 8
+          },
+          "consenter_ids": [
+            8
+          ],
+          "drops": null,
+          "roster_ids": [
+            8
+          ],
+          "status_updated": 1794038867471,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "created": 1793969361304,
+          "settings": {
+            "seq": 0
+          },
+          "leg": 9,
+          "draft_picks": [],
+          "creator": "1397669714943094784",
+          "transaction_id": "1424414377779408896",
+          "adds": {
+            "4046": 8
+          },
+          "consenter_ids": [
+            8
+          ],
+          "drops": {
+            "11559": 8
+          },
+          "roster_ids": [
+            8
+          ],
+          "status_updated": 1794038867471,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
           "created": 1793925229958,
           "settings": {
             "seq": 0
@@ -267,12 +323,12 @@
           "adds": {
             "DET": 4
           },
-          "drops": {
-            "PIT": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "PIT": 4
+          },
           "roster_ids": [
             4
           ],
@@ -282,104 +338,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 514890
-        },
-        {
-          "id": "3161",
-          "name": "Carson Wentz",
-          "adds": 473484
-        },
-        {
           "id": "6130",
           "name": "Devin Singletary",
-          "adds": 374544
-        },
-        {
-          "id": "2020",
-          "name": "Cairo Santos",
-          "adds": 304297
+          "adds": 737199
         },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 262744
-        },
-        {
-          "id": "8161",
-          "name": "Malik Willis",
-          "adds": 260666
+          "adds": 254200
         },
         {
           "id": "3286",
           "name": "Demarcus Robinson",
-          "adds": 258234
+          "adds": 229854
+        },
+        {
+          "id": "12491",
+          "name": "Corey Kiner",
+          "adds": 137856
+        },
+        {
+          "id": "3161",
+          "name": "Carson Wentz",
+          "adds": 119712
+        },
+        {
+          "id": "13150",
+          "name": "Darius Cooper",
+          "adds": 90958
         },
         {
           "id": "NO",
           "name": "NO",
-          "adds": 250900
+          "adds": 78315
         },
         {
           "id": "13337",
           "name": "Emmett Johnson",
-          "adds": 147231
+          "adds": 77562
+        },
+        {
+          "id": "13603",
+          "name": "Gregory Desrosiers",
+          "adds": 69768
+        },
+        {
+          "id": "8161",
+          "name": "Malik Willis",
+          "adds": 69272
         },
         {
           "id": "7561",
           "name": "Elijah Mitchell",
-          "adds": 128025
-        },
-        {
-          "id": "11557",
-          "name": "Joe Milton",
-          "adds": 125552
+          "adds": 64314
         },
         {
           "id": "11783",
           "name": "Ryan Flournoy",
-          "adds": 113368
+          "adds": 59744
         },
         {
-          "id": "13286",
-          "name": "Jadarian Price",
-          "adds": 109395
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 55482
         },
         {
-          "id": "NYG",
-          "name": "NYG",
-          "adds": 102252
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "adds": 52456
+        },
+        {
+          "id": "12634",
+          "name": "Jordan Watkins",
+          "adds": 45960
         },
         {
           "id": "12469",
           "name": "Dylan Sampson",
-          "adds": 88010
+          "adds": 45555
         },
         {
-          "id": "12524",
-          "name": "Shedeur Sanders",
-          "adds": 77232
+          "id": "8119",
+          "name": "Jahan Dotson",
+          "adds": 44955
         },
         {
           "id": "13414",
           "name": "Kaelon Black",
-          "adds": 71869
+          "adds": 44240
         },
         {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "adds": 57328
+          "id": "13286",
+          "name": "Jadarian Price",
+          "adds": 41463
         },
         {
-          "id": "11539",
-          "name": "Jake Bates",
-          "adds": 54872
-        },
-        {
-          "id": "4035",
-          "name": "Alvin Kamara",
-          "adds": 54184
+          "id": "12524",
+          "name": "Shedeur Sanders",
+          "adds": 41104
         }
       ]
     },
@@ -942,104 +998,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 514890
-        },
-        {
-          "id": "3161",
-          "name": "Carson Wentz",
-          "adds": 473484
-        },
-        {
-          "id": "DET",
-          "name": "DET",
-          "adds": 380538
-        },
-        {
           "id": "6130",
           "name": "Devin Singletary",
-          "adds": 374544
-        },
-        {
-          "id": "2020",
-          "name": "Cairo Santos",
-          "adds": 304297
+          "adds": 737199
         },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 262744
-        },
-        {
-          "id": "8161",
-          "name": "Malik Willis",
-          "adds": 260666
+          "adds": 254200
         },
         {
           "id": "3286",
           "name": "Demarcus Robinson",
-          "adds": 258234
+          "adds": 229854
+        },
+        {
+          "id": "13276",
+          "name": "Omar Cooper Jr.",
+          "adds": 177784
+        },
+        {
+          "id": "12491",
+          "name": "Corey Kiner",
+          "adds": 137856
+        },
+        {
+          "id": "3161",
+          "name": "Carson Wentz",
+          "adds": 119712
+        },
+        {
+          "id": "13150",
+          "name": "Darius Cooper",
+          "adds": 90958
+        },
+        {
+          "id": "DET",
+          "name": "DET",
+          "adds": 87678
         },
         {
           "id": "13337",
           "name": "Emmett Johnson",
-          "adds": 147231
+          "adds": 77562
         },
         {
-          "id": "7561",
-          "name": "Elijah Mitchell",
-          "adds": 128025
+          "id": "13603",
+          "name": "Gregory Desrosiers",
+          "adds": 69768
         },
         {
-          "id": "11557",
-          "name": "Joe Milton",
-          "adds": 125552
+          "id": "8161",
+          "name": "Malik Willis",
+          "adds": 69272
         },
         {
           "id": "11610",
           "name": "Malik Washington",
-          "adds": 118144
+          "adds": 66136
+        },
+        {
+          "id": "7561",
+          "name": "Elijah Mitchell",
+          "adds": 64314
         },
         {
           "id": "11783",
           "name": "Ryan Flournoy",
-          "adds": 113368
+          "adds": 59744
         },
         {
-          "id": "NYG",
-          "name": "NYG",
-          "adds": 102252
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 55482
+        },
+        {
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "adds": 52456
+        },
+        {
+          "id": "12634",
+          "name": "Jordan Watkins",
+          "adds": 45960
         },
         {
           "id": "12469",
           "name": "Dylan Sampson",
-          "adds": 88010
+          "adds": 45555
         },
         {
-          "id": "12524",
-          "name": "Shedeur Sanders",
-          "adds": 77232
+          "id": "8119",
+          "name": "Jahan Dotson",
+          "adds": 44955
         },
         {
           "id": "13414",
           "name": "Kaelon Black",
-          "adds": 71869
-        },
-        {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "adds": 57328
-        },
-        {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "adds": 57316
-        },
-        {
-          "id": "SF",
-          "name": "SF",
-          "adds": 55872
+          "adds": 44240
         }
       ]
     }
