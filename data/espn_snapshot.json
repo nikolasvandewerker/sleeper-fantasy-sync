@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-07T12:00:24.680812+00:00",
+  "updated_at_utc": "2026-11-08T12:01:33.778046+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
@@ -775,7 +775,7 @@
               "player_id": 3915416,
               "name": "DJ Moore",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 2,
               "default_position_id": 3
             },
@@ -1339,7 +1339,7 @@
               "player_id": 3917315,
               "name": "Kyler Murray",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 16,
               "default_position_id": 1
             },
@@ -2265,7 +2265,7 @@
               "player_id": 3915416,
               "name": "DJ Moore",
               "lineup_slot_id": 4,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 2,
               "default_position_id": 3
             },
@@ -2386,7 +2386,7 @@
               "player_id": 4880281,
               "name": "Jordyn Tyson",
               "lineup_slot_id": 20,
-              "injury_status": "INJURY_RESERVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 18,
               "default_position_id": 3
             },
