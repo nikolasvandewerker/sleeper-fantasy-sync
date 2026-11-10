@@ -1,11 +1,11 @@
 {
-  "updated_at_utc": "2026-11-09T12:20:53.625920+00:00",
+  "updated_at_utc": "2026-11-10T12:10:51.715477+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
       "league_name": "2026 Pop-a-Top",
       "season": 2026,
-      "week": 9,
+      "week": 10,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -348,7 +348,7 @@
         {
           "team_id": 1,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 3
           },
           "roster": [
@@ -478,7 +478,7 @@
           "team_id": 3,
           "record": {
             "wins": 3,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -606,7 +606,7 @@
         {
           "team_id": 4,
           "record": {
-            "wins": 2,
+            "wins": 3,
             "losses": 6
           },
           "roster": [
@@ -726,7 +726,7 @@
               "player_id": 4360761,
               "name": "Michael Wilson",
               "lineup_slot_id": 4,
-              "injury_status": "ACTIVE",
+              "injury_status": "OUT",
               "pro_team_id": 22,
               "default_position_id": 3
             }
@@ -736,7 +736,7 @@
           "team_id": 6,
           "record": {
             "wins": 6,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -864,7 +864,7 @@
         {
           "team_id": 7,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 3
           },
           "roster": [
@@ -928,7 +928,7 @@
               "player_id": 4047365,
               "name": "Josh Jacobs",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 9,
               "default_position_id": 2
             },
@@ -936,7 +936,7 @@
               "player_id": 4242355,
               "name": "Jake Ferguson",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 6,
               "default_position_id": 4
             },
@@ -994,7 +994,7 @@
           "team_id": 8,
           "record": {
             "wins": 2,
-            "losses": 6
+            "losses": 7
           },
           "roster": [
             {
@@ -1122,7 +1122,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 4
           },
           "roster": [
@@ -1252,7 +1252,7 @@
           "team_id": 13,
           "record": {
             "wins": 5,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -1380,7 +1380,7 @@
         {
           "team_id": 14,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 4
           },
           "roster": [
@@ -1388,7 +1388,7 @@
               "player_id": 4426515,
               "name": "Puka Nacua",
               "lineup_slot_id": 4,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "DOUBTFUL",
               "pro_team_id": 14,
               "default_position_id": 3
             },
@@ -1510,7 +1510,7 @@
           "team_id": 15,
           "record": {
             "wins": 4,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -1548,7 +1548,7 @@
             {
               "player_id": 4259545,
               "name": "D'Andre Swift",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 3,
               "default_position_id": 2
@@ -1556,7 +1556,7 @@
             {
               "player_id": 4430027,
               "name": "Sam LaPorta",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 8,
               "default_position_id": 4
@@ -1588,7 +1588,7 @@
             {
               "player_id": 4426385,
               "name": "Zach Charbonnet",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 2,
               "injury_status": "ACTIVE",
               "pro_team_id": 26,
               "default_position_id": 2
@@ -1596,7 +1596,7 @@
             {
               "player_id": 3046439,
               "name": "Hunter Henry",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 17,
               "default_position_id": 4
@@ -1641,7 +1641,7 @@
       "league_id": 415719,
       "league_name": "MUDCATS",
       "season": 2026,
-      "week": 9,
+      "week": 10,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -2000,7 +2000,7 @@
         {
           "team_id": 1,
           "record": {
-            "wins": 7,
+            "wins": 8,
             "losses": 1
           },
           "roster": [
@@ -2145,7 +2145,7 @@
         {
           "team_id": 2,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 2
           },
           "roster": [
@@ -2291,7 +2291,7 @@
           "team_id": 3,
           "record": {
             "wins": 1,
-            "losses": 7
+            "losses": 8
           },
           "roster": [
             {
@@ -2330,7 +2330,7 @@
               "player_id": 4047365,
               "name": "Josh Jacobs",
               "lineup_slot_id": 2,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "pro_team_id": 9,
               "default_position_id": 2
             },
@@ -2436,7 +2436,7 @@
           "team_id": 5,
           "record": {
             "wins": 5,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -2499,7 +2499,7 @@
               "player_id": 4360761,
               "name": "Michael Wilson",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "OUT",
               "pro_team_id": 22,
               "default_position_id": 3
             },
@@ -2555,7 +2555,7 @@
               "player_id": 4433970,
               "name": "J.J. McCarthy",
               "lineup_slot_id": 0,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 19,
               "default_position_id": 1
             },
@@ -2563,7 +2563,7 @@
               "player_id": 4242512,
               "name": "Malik Willis",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 15,
               "default_position_id": 1
             },
@@ -2580,7 +2580,7 @@
         {
           "team_id": 6,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 4
           },
           "roster": [
@@ -2726,14 +2726,14 @@
           "team_id": 7,
           "record": {
             "wins": 2,
-            "losses": 6
+            "losses": 7
           },
           "roster": [
             {
               "player_id": 4426515,
               "name": "Puka Nacua",
               "lineup_slot_id": 4,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "DOUBTFUL",
               "pro_team_id": 14,
               "default_position_id": 3
             },
@@ -2871,7 +2871,7 @@
           "team_id": 8,
           "record": {
             "wins": 5,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -3015,7 +3015,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 3
           },
           "roster": [
@@ -3046,7 +3046,7 @@
             {
               "player_id": 4239996,
               "name": "Travis Etienne Jr.",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 3,
               "injury_status": "INJURY_RESERVE",
               "pro_team_id": 18,
               "default_position_id": 2
@@ -3142,7 +3142,7 @@
             {
               "player_id": 4702555,
               "name": "Jonah Coleman",
-              "lineup_slot_id": 3,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 7,
               "default_position_id": 2
@@ -3161,7 +3161,7 @@
           "team_id": 10,
           "record": {
             "wins": 3,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -3305,7 +3305,7 @@
         {
           "team_id": 11,
           "record": {
-            "wins": 2,
+            "wins": 3,
             "losses": 6
           },
           "roster": [
