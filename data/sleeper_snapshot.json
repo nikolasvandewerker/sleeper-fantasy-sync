@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-12T12:18:56.713083+00:00",
+  "updated_at_utc": "2026-11-13T12:18:25.499591+00:00",
   "season": "2026",
   "week": 10,
   "leagues": {
@@ -231,10 +231,6 @@
           "name": "Jayden Daniels"
         },
         {
-          "id": "11579",
-          "name": "Audric Estime"
-        },
-        {
           "id": "13298",
           "name": "KC Concepcion Jr."
         },
@@ -245,11 +241,179 @@
         {
           "id": "5872",
           "name": "Deebo Samuel Sr."
+        },
+        {
+          "id": "IND",
+          "name": "IND"
         }
       ],
       "reserve": [],
       "opponent_roster_id": 7,
       "recent_transactions": [
+        {
+          "status": "failed",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Unfortunately, your roster will have too many players after this transaction."
+          },
+          "created": 1794547523248,
+          "settings": {
+            "seq": 4
+          },
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "403777925922467840",
+          "transaction_id": "1426839364733788160",
+          "adds": {
+            "BAL": 1
+          },
+          "drops": null,
+          "consenter_ids": [
+            1
+          ],
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1794557290463,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "created": 1794547487630,
+          "settings": {
+            "seq": 3
+          },
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "403777925922467840",
+          "transaction_id": "1426839215341072384",
+          "adds": {
+            "11610": 1
+          },
+          "drops": {
+            "10213": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1794557290463,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "created": 1794547475945,
+          "settings": {
+            "seq": 0
+          },
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "403777925922467840",
+          "transaction_id": "1426839166334795776",
+          "adds": {
+            "12491": 1
+          },
+          "drops": null,
+          "consenter_ids": [
+            1
+          ],
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1794557290463,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "created": 1794547239871,
+          "settings": {
+            "seq": 2
+          },
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1394804934028853248",
+          "transaction_id": "1426838176164478976",
+          "adds": {
+            "IND": 6
+          },
+          "drops": {
+            "11579": 6
+          },
+          "consenter_ids": [
+            6
+          ],
+          "roster_ids": [
+            6
+          ],
+          "status_updated": 1794557290463,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "created": 1794488082300,
+          "settings": {
+            "seq": 1
+          },
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "831223917896110080",
+          "transaction_id": "1426590051332009984",
+          "adds": {
+            "12718": 4
+          },
+          "drops": {
+            "13287": 4
+          },
+          "consenter_ids": [
+            4
+          ],
+          "roster_ids": [
+            4
+          ],
+          "status_updated": 1794557290463,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794488058022,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "831223917896110080",
+          "transaction_id": "1426589949502693376",
+          "adds": null,
+          "drops": {
+            "12508": 4
+          },
+          "consenter_ids": [
+            4
+          ],
+          "roster_ids": [
+            4
+          ],
+          "status_updated": 1794488058022,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "waiver",
@@ -332,104 +496,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "12491",
-          "name": "Corey Kiner",
-          "adds": 763074
-        },
-        {
-          "id": "12718",
-          "name": "Konata Mumpfield",
-          "adds": 757737
-        },
-        {
           "id": "2505",
           "name": "Darren Waller",
-          "adds": 465282
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 333832
-        },
-        {
-          "id": "9502",
-          "name": "Tank Dell",
-          "adds": 330192
-        },
-        {
-          "id": "6427",
-          "name": "Ashton Dulin",
-          "adds": 317664
-        },
-        {
-          "id": "IND",
-          "name": "IND",
-          "adds": 298800
-        },
-        {
-          "id": "BAL",
-          "name": "BAL",
-          "adds": 266979
+          "adds": 479700
         },
         {
           "id": "5995",
           "name": "Justice Hill",
-          "adds": 232020
-        },
-        {
-          "id": "3286",
-          "name": "Demarcus Robinson",
-          "adds": 209070
-        },
-        {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "adds": 205254
-        },
-        {
-          "id": "8116",
-          "name": "Pierre Strong Jr.",
-          "adds": 182637
-        },
-        {
-          "id": "12494",
-          "name": "Kyle McCord",
-          "adds": 178408
-        },
-        {
-          "id": "96",
-          "name": "Aaron Rodgers",
-          "adds": 163696
-        },
-        {
-          "id": "9756",
-          "name": "Jordan Addison",
-          "adds": 156474
-        },
-        {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 132900
+          "adds": 304398
         },
         {
           "id": "10219",
           "name": "Chris Rodriguez Jr.",
-          "adds": 113400
+          "adds": 220581
         },
         {
-          "id": "3155",
-          "name": "Laquon Treadwell",
-          "adds": 103625
+          "id": "6427",
+          "name": "Ashton Dulin",
+          "adds": 212355
         },
         {
-          "id": "12545",
-          "name": "Tyler Shough",
-          "adds": 99696
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 178272
+        },
+        {
+          "id": "9756",
+          "name": "Jordan Addison",
+          "adds": 156609
+        },
+        {
+          "id": "5119",
+          "name": "Jason Sanders",
+          "adds": 126845
+        },
+        {
+          "id": "11579",
+          "name": "Audric Estime",
+          "adds": 124581
+        },
+        {
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "adds": 120240
+        },
+        {
+          "id": "BAL",
+          "name": "BAL",
+          "adds": 111051
+        },
+        {
+          "id": "9502",
+          "name": "Tank Dell",
+          "adds": 110800
+        },
+        {
+          "id": "4177",
+          "name": "Mack Hollins",
+          "adds": 110448
+        },
+        {
+          "id": "96",
+          "name": "Aaron Rodgers",
+          "adds": 107052
+        },
+        {
+          "id": "4663",
+          "name": "Austin Ekeler",
+          "adds": 93400
+        },
+        {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "adds": 93200
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 87534
+        },
+        {
+          "id": "4017",
+          "name": "Deshaun Watson",
+          "adds": 84768
         },
         {
           "id": "1945",
           "name": "Chris Boswell",
-          "adds": 99316
+          "adds": 80224
+        },
+        {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "adds": 78368
+        },
+        {
+          "id": "WAS",
+          "name": "WAS",
+          "adds": 78141
         }
       ]
     },
@@ -568,6 +732,79 @@
       "reserve": [],
       "opponent_roster_id": 9,
       "recent_transactions": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794542625007,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1257875780155744256",
+          "transaction_id": "1426818820026159104",
+          "adds": {
+            "BAL": 7
+          },
+          "drops": {
+            "DEN": 7
+          },
+          "consenter_ids": [
+            7
+          ],
+          "roster_ids": [
+            7
+          ],
+          "status_updated": 1794542625007,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794542575528,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1257875780155744256",
+          "transaction_id": "1426818612496183296",
+          "adds": {
+            "5859": 7
+          },
+          "drops": {
+            "8110": 7
+          },
+          "consenter_ids": [
+            7
+          ],
+          "roster_ids": [
+            7
+          ],
+          "status_updated": 1794542575528,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794541080692,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1129816222595624960",
+          "transaction_id": "1426812342699573248",
+          "adds": {
+            "12718": 4
+          },
+          "drops": null,
+          "consenter_ids": [
+            4
+          ],
+          "roster_ids": [
+            4
+          ],
+          "status_updated": 1794541080692,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "free_agent",
@@ -763,104 +1000,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "12718",
-          "name": "Konata Mumpfield",
-          "adds": 757737
-        },
-        {
           "id": "7562",
           "name": "Tutu Atwell",
-          "adds": 601979
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 333832
-        },
-        {
-          "id": "9502",
-          "name": "Tank Dell",
-          "adds": 330192
-        },
-        {
-          "id": "6427",
-          "name": "Ashton Dulin",
-          "adds": 317664
-        },
-        {
-          "id": "IND",
-          "name": "IND",
-          "adds": 298800
-        },
-        {
-          "id": "11579",
-          "name": "Audric Estime",
-          "adds": 292662
-        },
-        {
-          "id": "BAL",
-          "name": "BAL",
-          "adds": 266979
+          "adds": 381766
         },
         {
           "id": "5995",
           "name": "Justice Hill",
-          "adds": 232020
+          "adds": 304398
         },
         {
-          "id": "3286",
-          "name": "Demarcus Robinson",
-          "adds": 209070
-        },
-        {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "adds": 205254
-        },
-        {
-          "id": "8116",
-          "name": "Pierre Strong Jr.",
-          "adds": 182637
-        },
-        {
-          "id": "12494",
-          "name": "Kyle McCord",
-          "adds": 178408
-        },
-        {
-          "id": "96",
-          "name": "Aaron Rodgers",
-          "adds": 163696
-        },
-        {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 132900
+          "id": "IND",
+          "name": "IND",
+          "adds": 254532
         },
         {
           "id": "10219",
           "name": "Chris Rodriguez Jr.",
-          "adds": 113400
+          "adds": 220581
+        },
+        {
+          "id": "6427",
+          "name": "Ashton Dulin",
+          "adds": 212355
+        },
+        {
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 178272
+        },
+        {
+          "id": "5119",
+          "name": "Jason Sanders",
+          "adds": 126845
+        },
+        {
+          "id": "11579",
+          "name": "Audric Estime",
+          "adds": 124581
+        },
+        {
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "adds": 120240
         },
         {
           "id": "NYG",
           "name": "NYG",
-          "adds": 106220
+          "adds": 119000
         },
         {
-          "id": "3155",
-          "name": "Laquon Treadwell",
-          "adds": 103625
+          "id": "9502",
+          "name": "Tank Dell",
+          "adds": 110800
         },
         {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "adds": 99820
+          "id": "4177",
+          "name": "Mack Hollins",
+          "adds": 110448
+        },
+        {
+          "id": "96",
+          "name": "Aaron Rodgers",
+          "adds": 107052
+        },
+        {
+          "id": "4663",
+          "name": "Austin Ekeler",
+          "adds": 93400
+        },
+        {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "adds": 93200
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 87534
+        },
+        {
+          "id": "4017",
+          "name": "Deshaun Watson",
+          "adds": 84768
+        },
+        {
+          "id": "1945",
+          "name": "Chris Boswell",
+          "adds": 80224
         },
         {
           "id": "12545",
           "name": "Tyler Shough",
-          "adds": 99696
+          "adds": 78368
+        },
+        {
+          "id": "WAS",
+          "name": "WAS",
+          "adds": 78141
         }
       ]
     }
