@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-13T12:18:25.499591+00:00",
+  "updated_at_utc": "2026-11-14T12:02:09.520965+00:00",
   "season": "2026",
   "week": 10,
   "leagues": {
@@ -496,104 +496,104 @@
       ],
       "unrostered_trending_adds": [
         {
+          "id": "13337",
+          "name": "Emmett Johnson",
+          "adds": 788625
+        },
+        {
           "id": "2505",
           "name": "Darren Waller",
-          "adds": 479700
+          "adds": 301401
+        },
+        {
+          "id": "12540",
+          "name": "Chimere Dike",
+          "adds": 199773
         },
         {
           "id": "5995",
           "name": "Justice Hill",
-          "adds": 304398
+          "adds": 97533
         },
         {
           "id": "10219",
           "name": "Chris Rodriguez Jr.",
-          "adds": 220581
-        },
-        {
-          "id": "6427",
-          "name": "Ashton Dulin",
-          "adds": 212355
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 178272
-        },
-        {
-          "id": "9756",
-          "name": "Jordan Addison",
-          "adds": 156609
-        },
-        {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 126845
-        },
-        {
-          "id": "11579",
-          "name": "Audric Estime",
-          "adds": 124581
+          "adds": 86868
         },
         {
           "id": "3271",
           "name": "Tyler Higbee",
-          "adds": 120240
+          "adds": 77760
         },
         {
-          "id": "BAL",
-          "name": "BAL",
-          "adds": 111051
+          "id": "6427",
+          "name": "Ashton Dulin",
+          "adds": 73575
         },
         {
-          "id": "9502",
-          "name": "Tank Dell",
-          "adds": 110800
-        },
-        {
-          "id": "4177",
-          "name": "Mack Hollins",
-          "adds": 110448
-        },
-        {
-          "id": "96",
-          "name": "Aaron Rodgers",
-          "adds": 107052
-        },
-        {
-          "id": "4663",
-          "name": "Austin Ekeler",
-          "adds": 93400
+          "id": "9756",
+          "name": "Jordan Addison",
+          "adds": 57573
         },
         {
           "id": "13296",
           "name": "Caleb Douglas",
-          "adds": 93200
+          "adds": 52176
         },
         {
           "id": "9480",
           "name": "Brenton Strange",
-          "adds": 87534
+          "adds": 51633
         },
         {
-          "id": "4017",
-          "name": "Deshaun Watson",
-          "adds": 84768
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 48024
         },
         {
-          "id": "1945",
-          "name": "Chris Boswell",
-          "adds": 80224
+          "id": "9502",
+          "name": "Tank Dell",
+          "adds": 47736
         },
         {
-          "id": "12545",
-          "name": "Tyler Shough",
-          "adds": 78368
+          "id": "3214",
+          "name": "Hunter Henry",
+          "adds": 44931
         },
         {
-          "id": "WAS",
-          "name": "WAS",
-          "adds": 78141
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 40920
+        },
+        {
+          "id": "4177",
+          "name": "Mack Hollins",
+          "adds": 35916
+        },
+        {
+          "id": "13270",
+          "name": "CJ Daniels",
+          "adds": 35836
+        },
+        {
+          "id": "11579",
+          "name": "Audric Estime",
+          "adds": 30849
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 29875
+        },
+        {
+          "id": "11762",
+          "name": "Anthony Gould",
+          "adds": 28931
+        },
+        {
+          "id": "8122",
+          "name": "Zonovan Knight",
+          "adds": 27566
         }
       ]
     },
@@ -1000,104 +1000,104 @@
       ],
       "unrostered_trending_adds": [
         {
+          "id": "13337",
+          "name": "Emmett Johnson",
+          "adds": 788625
+        },
+        {
+          "id": "12540",
+          "name": "Chimere Dike",
+          "adds": 199773
+        },
+        {
           "id": "7562",
           "name": "Tutu Atwell",
-          "adds": 381766
+          "adds": 132363
         },
         {
           "id": "5995",
           "name": "Justice Hill",
-          "adds": 304398
-        },
-        {
-          "id": "IND",
-          "name": "IND",
-          "adds": 254532
+          "adds": 97533
         },
         {
           "id": "10219",
           "name": "Chris Rodriguez Jr.",
-          "adds": 220581
-        },
-        {
-          "id": "6427",
-          "name": "Ashton Dulin",
-          "adds": 212355
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 178272
-        },
-        {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 126845
-        },
-        {
-          "id": "11579",
-          "name": "Audric Estime",
-          "adds": 124581
+          "adds": 86868
         },
         {
           "id": "3271",
           "name": "Tyler Higbee",
-          "adds": 120240
+          "adds": 77760
         },
         {
-          "id": "NYG",
-          "name": "NYG",
-          "adds": 119000
-        },
-        {
-          "id": "9502",
-          "name": "Tank Dell",
-          "adds": 110800
-        },
-        {
-          "id": "4177",
-          "name": "Mack Hollins",
-          "adds": 110448
-        },
-        {
-          "id": "96",
-          "name": "Aaron Rodgers",
-          "adds": 107052
-        },
-        {
-          "id": "4663",
-          "name": "Austin Ekeler",
-          "adds": 93400
+          "id": "6427",
+          "name": "Ashton Dulin",
+          "adds": 73575
         },
         {
           "id": "13296",
           "name": "Caleb Douglas",
-          "adds": 93200
+          "adds": 52176
         },
         {
           "id": "9480",
           "name": "Brenton Strange",
-          "adds": 87534
+          "adds": 51633
         },
         {
-          "id": "4017",
-          "name": "Deshaun Watson",
-          "adds": 84768
+          "id": "IND",
+          "name": "IND",
+          "adds": 51573
         },
         {
-          "id": "1945",
-          "name": "Chris Boswell",
-          "adds": 80224
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 48024
         },
         {
-          "id": "12545",
-          "name": "Tyler Shough",
-          "adds": 78368
+          "id": "9502",
+          "name": "Tank Dell",
+          "adds": 47736
         },
         {
-          "id": "WAS",
-          "name": "WAS",
-          "adds": 78141
+          "id": "3214",
+          "name": "Hunter Henry",
+          "adds": 44931
+        },
+        {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 40920
+        },
+        {
+          "id": "13281",
+          "name": "Jordyn Tyson",
+          "adds": 37600
+        },
+        {
+          "id": "4177",
+          "name": "Mack Hollins",
+          "adds": 35916
+        },
+        {
+          "id": "13270",
+          "name": "CJ Daniels",
+          "adds": 35836
+        },
+        {
+          "id": "11579",
+          "name": "Audric Estime",
+          "adds": 30849
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 29875
+        },
+        {
+          "id": "11762",
+          "name": "Anthony Gould",
+          "adds": 28931
         }
       ]
     }
