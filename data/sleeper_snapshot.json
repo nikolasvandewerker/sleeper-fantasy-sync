@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-15T12:04:12.925649+00:00",
+  "updated_at_utc": "2026-11-16T12:38:17.131247+00:00",
   "season": "2026",
   "week": 10,
   "leagues": {
@@ -181,11 +181,6 @@
           "slot": "RB"
         },
         {
-          "id": "8134",
-          "name": "Khalil Shakir",
-          "slot": "WR"
-        },
-        {
           "id": "6801",
           "name": "Tee Higgins",
           "slot": "WR"
@@ -196,18 +191,23 @@
           "slot": "WR"
         },
         {
+          "id": "5846",
+          "name": "DK Metcalf",
+          "slot": "WR"
+        },
+        {
           "id": "11604",
           "name": "Brock Bowers",
           "slot": "TE"
         },
         {
-          "id": "11646",
-          "name": "Jalen Coker",
+          "id": "10229",
+          "name": "Rashee Rice",
           "slot": "FLEX"
         },
         {
-          "id": "12518",
-          "name": "Tyler Warren",
+          "id": "5872",
+          "name": "Deebo Samuel Sr.",
           "slot": "FLEX"
         },
         {
@@ -216,40 +216,111 @@
           "slot": "K"
         },
         {
-          "id": "MIN",
-          "name": "MIN",
+          "id": "IND",
+          "name": "IND",
           "slot": "DEF"
         }
       ],
       "bench": [
         {
-          "id": "10229",
-          "name": "Rashee Rice"
-        },
-        {
           "id": "11566",
           "name": "Jayden Daniels"
+        },
+        {
+          "id": "11646",
+          "name": "Jalen Coker"
+        },
+        {
+          "id": "12518",
+          "name": "Tyler Warren"
         },
         {
           "id": "13298",
           "name": "KC Concepcion Jr."
         },
         {
-          "id": "5846",
-          "name": "DK Metcalf"
+          "id": "8134",
+          "name": "Khalil Shakir"
         },
         {
-          "id": "5872",
-          "name": "Deebo Samuel Sr."
-        },
-        {
-          "id": "IND",
-          "name": "IND"
+          "id": "MIN",
+          "name": "MIN"
         }
       ],
       "reserve": [],
       "opponent_roster_id": 7,
       "recent_transactions": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794774386594,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1256078691901911040",
+          "transaction_id": "1427790898573357056",
+          "adds": {
+            "5995": 2
+          },
+          "consenter_ids": [
+            2
+          ],
+          "drops": null,
+          "roster_ids": [
+            2
+          ],
+          "status_updated": 1794774386594,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794774359305,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1256078691901911040",
+          "transaction_id": "1427790784119214080",
+          "adds": null,
+          "consenter_ids": [
+            2
+          ],
+          "drops": {
+            "11583": 2
+          },
+          "roster_ids": [
+            2
+          ],
+          "status_updated": 1794774359305,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794774144447,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1256078691901911040",
+          "transaction_id": "1427789882939437056",
+          "adds": {
+            "PIT": 2
+          },
+          "consenter_ids": [
+            2
+          ],
+          "drops": {
+            "DEN": 2
+          },
+          "roster_ids": [
+            2
+          ],
+          "status_updated": 1794774144447,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "waiver",
@@ -267,12 +338,12 @@
           "adds": {
             "13337": 1
           },
-          "drops": {
-            "12491": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "12491": 1
+          },
           "roster_ids": [
             1
           ],
@@ -296,10 +367,10 @@
           "adds": {
             "3214": 3
           },
-          "drops": null,
           "consenter_ids": [
             3
           ],
+          "drops": null,
           "roster_ids": [
             3
           ],
@@ -323,12 +394,12 @@
           "adds": {
             "9480": 3
           },
-          "drops": {
-            "13281": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "13281": 3
+          },
           "roster_ids": [
             3
           ],
@@ -352,12 +423,12 @@
           "adds": {
             "BAL": 1
           },
-          "drops": {
-            "11610": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "11610": 1
+          },
           "roster_ids": [
             1
           ],
@@ -381,12 +452,12 @@
           "adds": {
             "7543": 5
           },
-          "drops": {
-            "9228": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "9228": 5
+          },
           "roster_ids": [
             5
           ],
@@ -410,10 +481,10 @@
           "adds": {
             "BAL": 1
           },
-          "drops": null,
           "consenter_ids": [
             1
           ],
+          "drops": null,
           "roster_ids": [
             1
           ],
@@ -437,12 +508,12 @@
           "adds": {
             "11610": 1
           },
-          "drops": {
-            "10213": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "10213": 1
+          },
           "roster_ids": [
             1
           ],
@@ -466,10 +537,10 @@
           "adds": {
             "12491": 1
           },
-          "drops": null,
           "consenter_ids": [
             1
           ],
+          "drops": null,
           "roster_ids": [
             1
           ],
@@ -493,12 +564,12 @@
           "adds": {
             "IND": 6
           },
-          "drops": {
-            "11579": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "11579": 6
+          },
           "roster_ids": [
             6
           ],
@@ -522,12 +593,12 @@
           "adds": {
             "12718": 4
           },
-          "drops": {
-            "13287": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "13287": 4
+          },
           "roster_ids": [
             4
           ],
@@ -545,12 +616,12 @@
           "creator": "831223917896110080",
           "transaction_id": "1426589949502693376",
           "adds": null,
-          "drops": {
-            "12508": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "12508": 4
+          },
           "roster_ids": [
             4
           ],
@@ -574,12 +645,12 @@
           "adds": {
             "7562": 7
           },
-          "drops": {
-            "SF": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "SF": 7
+          },
           "roster_ids": [
             7
           ],
@@ -603,10 +674,10 @@
           "adds": {
             "11539": 7
           },
-          "drops": null,
           "consenter_ids": [
             7
           ],
+          "drops": null,
           "roster_ids": [
             7
           ],
@@ -624,12 +695,12 @@
           "creator": "1207542024094355456",
           "transaction_id": "1426484045490954240",
           "adds": null,
-          "drops": {
-            "12711": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "12711": 7
+          },
           "roster_ids": [
             7
           ],
@@ -641,102 +712,102 @@
         {
           "id": "12540",
           "name": "Chimere Dike",
-          "adds": 528435
+          "adds": 398061
         },
         {
-          "id": "5995",
-          "name": "Justice Hill",
-          "adds": 213840
+          "id": "9754",
+          "name": "Quentin Johnston",
+          "adds": 277417
         },
         {
           "id": "2505",
           "name": "Darren Waller",
-          "adds": 204795
+          "adds": 205272
         },
         {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 158580
+          "id": "13424",
+          "name": "Seth McGowan",
+          "adds": 188912
         },
         {
           "id": "3271",
           "name": "Tyler Higbee",
-          "adds": 125820
-        },
-        {
-          "id": "12491",
-          "name": "Corey Kiner",
-          "adds": 91224
-        },
-        {
-          "id": "9502",
-          "name": "Tank Dell",
-          "adds": 77720
-        },
-        {
-          "id": "12700",
-          "name": "Gavin Bartholomew",
-          "adds": 66060
-        },
-        {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "adds": 63712
-        },
-        {
-          "id": "6427",
-          "name": "Ashton Dulin",
-          "adds": 62352
-        },
-        {
-          "id": "8122",
-          "name": "Zonovan Knight",
-          "adds": 59570
-        },
-        {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 52364
-        },
-        {
-          "id": "3214",
-          "name": "Hunter Henry",
-          "adds": 50475
-        },
-        {
-          "id": "9479",
-          "name": "Darnell Washington",
-          "adds": 49910
-        },
-        {
-          "id": "9756",
-          "name": "Jordan Addison",
-          "adds": 44325
-        },
-        {
-          "id": "13286",
-          "name": "Jadarian Price",
-          "adds": 43587
-        },
-        {
-          "id": "13270",
-          "name": "CJ Daniels",
-          "adds": 43224
+          "adds": 165258
         },
         {
           "id": "13269",
           "name": "Fernando Mendoza",
-          "adds": 40272
+          "adds": 162504
         },
         {
-          "id": "6865",
-          "name": "Colby Parkinson",
-          "adds": 40080
+          "id": "13281",
+          "name": "Jordyn Tyson",
+          "adds": 162192
+        },
+        {
+          "id": "10218",
+          "name": "Xavier Hutchinson",
+          "adds": 148323
+        },
+        {
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 139136
+        },
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "adds": 120600
+        },
+        {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "adds": 120136
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 105273
+        },
+        {
+          "id": "9479",
+          "name": "Darnell Washington",
+          "adds": 93145
+        },
+        {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 90636
+        },
+        {
+          "id": "9502",
+          "name": "Tank Dell",
+          "adds": 87328
+        },
+        {
+          "id": "12700",
+          "name": "Gavin Bartholomew",
+          "adds": 85203
+        },
+        {
+          "id": "4017",
+          "name": "Deshaun Watson",
+          "adds": 85152
         },
         {
           "id": "TB",
           "name": "TB",
-          "adds": 36670
+          "adds": 78465
+        },
+        {
+          "id": "13414",
+          "name": "Kaelon Black",
+          "adds": 76692
+        },
+        {
+          "id": "12492",
+          "name": "Pat Bryant",
+          "adds": 73992
         }
       ]
     },
@@ -868,13 +939,88 @@
           "name": "Breece Hall"
         },
         {
-          "id": "9753",
-          "name": "Zach Charbonnet"
+          "id": "9758",
+          "name": "C.J. Stroud"
         }
       ],
       "reserve": [],
       "opponent_roster_id": 9,
       "recent_transactions": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794801393212,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1394804934028853248",
+          "transaction_id": "1427904172543459328",
+          "adds": {
+            "9758": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "drops": {
+            "9753": 1
+          },
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1794801393212,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794779230473,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "868144062836936704",
+          "transaction_id": "1427811215278637056",
+          "adds": {
+            "5872": 6
+          },
+          "consenter_ids": [
+            6
+          ],
+          "drops": {
+            "5844": 6
+          },
+          "roster_ids": [
+            6
+          ],
+          "status_updated": 1794779230473,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794762122900,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1018776486419009536",
+          "transaction_id": "1427739460916776960",
+          "adds": {
+            "13296": 5
+          },
+          "consenter_ids": [
+            5
+          ],
+          "drops": {
+            "13279": 5
+          },
+          "roster_ids": [
+            5
+          ],
+          "status_updated": 1794762122900,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "free_agent",
@@ -1168,104 +1314,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "12540",
-          "name": "Chimere Dike",
-          "adds": 528435
-        },
-        {
           "id": "5995",
           "name": "Justice Hill",
-          "adds": 213840
+          "adds": 413379
         },
         {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 158580
+          "id": "12540",
+          "name": "Chimere Dike",
+          "adds": 398061
         },
         {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "adds": 125820
+          "id": "9754",
+          "name": "Quentin Johnston",
+          "adds": 277417
+        },
+        {
+          "id": "13424",
+          "name": "Seth McGowan",
+          "adds": 188912
         },
         {
           "id": "7562",
           "name": "Tutu Atwell",
-          "adds": 106582
+          "adds": 168686
         },
         {
-          "id": "9502",
-          "name": "Tank Dell",
-          "adds": 77720
-        },
-        {
-          "id": "12700",
-          "name": "Gavin Bartholomew",
-          "adds": 66060
-        },
-        {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "adds": 63712
-        },
-        {
-          "id": "6427",
-          "name": "Ashton Dulin",
-          "adds": 62352
-        },
-        {
-          "id": "IND",
-          "name": "IND",
-          "adds": 61305
-        },
-        {
-          "id": "8122",
-          "name": "Zonovan Knight",
-          "adds": 59570
-        },
-        {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "adds": 53883
-        },
-        {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 52364
-        },
-        {
-          "id": "3214",
-          "name": "Hunter Henry",
-          "adds": 50475
-        },
-        {
-          "id": "9479",
-          "name": "Darnell Washington",
-          "adds": 49910
-        },
-        {
-          "id": "13270",
-          "name": "CJ Daniels",
-          "adds": 43224
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "adds": 165258
         },
         {
           "id": "13269",
           "name": "Fernando Mendoza",
-          "adds": 40272
+          "adds": 162504
         },
         {
-          "id": "6865",
-          "name": "Colby Parkinson",
-          "adds": 40080
+          "id": "13281",
+          "name": "Jordyn Tyson",
+          "adds": 162192
+        },
+        {
+          "id": "10218",
+          "name": "Xavier Hutchinson",
+          "adds": 148323
+        },
+        {
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 139136
+        },
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "adds": 120600
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 105273
+        },
+        {
+          "id": "9479",
+          "name": "Darnell Washington",
+          "adds": 93145
+        },
+        {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 90636
+        },
+        {
+          "id": "9502",
+          "name": "Tank Dell",
+          "adds": 87328
+        },
+        {
+          "id": "12700",
+          "name": "Gavin Bartholomew",
+          "adds": 85203
+        },
+        {
+          "id": "4017",
+          "name": "Deshaun Watson",
+          "adds": 85152
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 85149
         },
         {
           "id": "TB",
           "name": "TB",
-          "adds": 36670
+          "adds": 78465
         },
         {
-          "id": "5947",
-          "name": "Jakobi Meyers",
-          "adds": 35130
+          "id": "13414",
+          "name": "Kaelon Black",
+          "adds": 76692
         }
       ]
     }
