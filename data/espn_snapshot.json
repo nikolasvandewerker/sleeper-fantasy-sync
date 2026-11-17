@@ -1,11 +1,11 @@
 {
-  "updated_at_utc": "2026-11-16T12:38:17.901433+00:00",
+  "updated_at_utc": "2026-11-17T12:14:54.909277+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
       "league_name": "2026 Pop-a-Top",
       "season": 2026,
-      "week": 10,
+      "week": 11,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -348,7 +348,7 @@
         {
           "team_id": 1,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 3
           },
           "roster": [
@@ -478,7 +478,7 @@
           "team_id": 3,
           "record": {
             "wins": 3,
-            "losses": 6
+            "losses": 7
           },
           "roster": [
             {
@@ -493,7 +493,7 @@
               "player_id": 4426502,
               "name": "Drake London",
               "lineup_slot_id": 4,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 1,
               "default_position_id": 3
             },
@@ -607,7 +607,7 @@
           "team_id": 4,
           "record": {
             "wins": 3,
-            "losses": 6
+            "losses": 7
           },
           "roster": [
             {
@@ -735,7 +735,7 @@
         {
           "team_id": 6,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 3
           },
           "roster": [
@@ -865,7 +865,7 @@
           "team_id": 7,
           "record": {
             "wins": 6,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -994,7 +994,7 @@
           "team_id": 8,
           "record": {
             "wins": 2,
-            "losses": 7
+            "losses": 8
           },
           "roster": [
             {
@@ -1122,7 +1122,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 4
           },
           "roster": [
@@ -1145,7 +1145,7 @@
             {
               "player_id": 4432665,
               "name": "Brock Bowers",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 13,
               "default_position_id": 4
@@ -1193,7 +1193,7 @@
             {
               "player_id": 4361050,
               "name": "Isaiah Likely",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 19,
               "default_position_id": 4
@@ -1251,7 +1251,7 @@
         {
           "team_id": 13,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 4
           },
           "roster": [
@@ -1380,7 +1380,7 @@
         {
           "team_id": 14,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 4
           },
           "roster": [
@@ -1403,7 +1403,7 @@
             {
               "player_id": 4047646,
               "name": "A.J. Brown",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 17,
               "default_position_id": 3
@@ -1419,7 +1419,7 @@
             {
               "player_id": 4723086,
               "name": "Colston Loveland",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 3,
               "default_position_id": 4
@@ -1427,7 +1427,7 @@
             {
               "player_id": 4569618,
               "name": "Garrett Wilson",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 20,
               "default_position_id": 3
@@ -1475,7 +1475,7 @@
             {
               "player_id": 4702555,
               "name": "Jonah Coleman",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 3,
               "injury_status": "ACTIVE",
               "pro_team_id": 7,
               "default_position_id": 2
@@ -1491,7 +1491,7 @@
             {
               "player_id": 4831959,
               "name": "Eli Raridon",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 17,
               "default_position_id": 4
@@ -1499,7 +1499,7 @@
             {
               "player_id": 4832955,
               "name": "Emmett Johnson",
-              "lineup_slot_id": 3,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 2
@@ -1510,7 +1510,7 @@
           "team_id": 15,
           "record": {
             "wins": 4,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -1641,7 +1641,7 @@
       "league_id": 415719,
       "league_name": "MUDCATS",
       "season": 2026,
-      "week": 10,
+      "week": 11,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -2001,7 +2001,7 @@
           "team_id": 1,
           "record": {
             "wins": 8,
-            "losses": 1
+            "losses": 2
           },
           "roster": [
             {
@@ -2145,7 +2145,7 @@
         {
           "team_id": 2,
           "record": {
-            "wins": 7,
+            "wins": 8,
             "losses": 2
           },
           "roster": [
@@ -2192,7 +2192,7 @@
             {
               "player_id": 4685278,
               "name": "Luther Burden III",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 3,
               "default_position_id": 3
@@ -2256,7 +2256,7 @@
             {
               "player_id": -16002,
               "name": "Bills D/ST",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 16,
               "injury_status": null,
               "pro_team_id": 2,
               "default_position_id": 16
@@ -2272,7 +2272,7 @@
             {
               "player_id": 3126486,
               "name": "Deebo Samuel Sr.",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 25,
               "default_position_id": 3
@@ -2280,7 +2280,7 @@
             {
               "player_id": -16033,
               "name": "Ravens D/ST",
-              "lineup_slot_id": 16,
+              "lineup_slot_id": 20,
               "injury_status": null,
               "pro_team_id": 33,
               "default_position_id": 16
@@ -2291,7 +2291,7 @@
           "team_id": 3,
           "record": {
             "wins": 1,
-            "losses": 8
+            "losses": 9
           },
           "roster": [
             {
@@ -2436,7 +2436,7 @@
           "team_id": 5,
           "record": {
             "wins": 5,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -2451,7 +2451,7 @@
               "player_id": 4426502,
               "name": "Drake London",
               "lineup_slot_id": 4,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 1,
               "default_position_id": 3
             },
@@ -2580,7 +2580,7 @@
         {
           "team_id": 6,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 4
           },
           "roster": [
@@ -2726,7 +2726,7 @@
           "team_id": 7,
           "record": {
             "wins": 2,
-            "losses": 7
+            "losses": 8
           },
           "roster": [
             {
@@ -2871,7 +2871,7 @@
           "team_id": 8,
           "record": {
             "wins": 5,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -3015,7 +3015,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 3
           },
           "roster": [
@@ -3160,7 +3160,7 @@
         {
           "team_id": 10,
           "record": {
-            "wins": 3,
+            "wins": 4,
             "losses": 6
           },
           "roster": [
@@ -3305,7 +3305,7 @@
         {
           "team_id": 11,
           "record": {
-            "wins": 3,
+            "wins": 4,
             "losses": 6
           },
           "roster": [
@@ -3361,7 +3361,7 @@
               "player_id": 4035538,
               "name": "David Montgomery",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "ACTIVE",
               "pro_team_id": 34,
               "default_position_id": 2
             },
