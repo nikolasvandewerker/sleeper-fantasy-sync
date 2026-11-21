@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-20T12:20:04.419407+00:00",
+  "updated_at_utc": "2026-11-21T12:07:33.088567+00:00",
   "season": "2026",
   "week": 11,
   "leagues": {
@@ -171,8 +171,8 @@
           "slot": "QB"
         },
         {
-          "id": "0",
-          "name": null,
+          "id": "8136",
+          "name": "Rachaad White",
           "slot": "RB"
         },
         {
@@ -239,10 +239,6 @@
           "name": "T.J. Hockenson"
         },
         {
-          "id": "8136",
-          "name": "Rachaad White"
-        },
-        {
           "id": "9509",
           "name": "Bijan Robinson"
         },
@@ -260,6 +256,58 @@
           "metadata": {
             "notes": "Your waiver claim was processed successfully!"
           },
+          "created": 1795229351791,
+          "settings": {
+            "seq": 0
+          },
+          "leg": 11,
+          "draft_picks": [],
+          "creator": "1207542024094355456",
+          "transaction_id": "1429699160923213824",
+          "adds": {
+            "DEN": 7
+          },
+          "drops": {
+            "6806": 7
+          },
+          "consenter_ids": [
+            7
+          ],
+          "roster_ids": [
+            7
+          ],
+          "status_updated": 1795248517619,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1795229327764,
+          "settings": null,
+          "leg": 11,
+          "draft_picks": [],
+          "creator": "1207542024094355456",
+          "transaction_id": "1429699060146638848",
+          "adds": null,
+          "drops": {
+            "NYG": 7
+          },
+          "consenter_ids": [
+            7
+          ],
+          "roster_ids": [
+            7
+          ],
+          "status_updated": 1795229327764,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
           "created": 1795134076275,
           "settings": {
             "seq": 2
@@ -271,12 +319,12 @@
           "adds": {
             "8136": 6
           },
-          "consenter_ids": [
-            6
-          ],
           "drops": {
             "11646": 6
           },
+          "consenter_ids": [
+            6
+          ],
           "roster_ids": [
             6
           ],
@@ -300,12 +348,12 @@
           "adds": {
             "12545": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "5995": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -329,12 +377,12 @@
           "adds": {
             "5844": 6
           },
-          "consenter_ids": [
-            6
-          ],
           "drops": {
             "12518": 6
           },
+          "consenter_ids": [
+            6
+          ],
           "roster_ids": [
             6
           ],
@@ -358,12 +406,12 @@
           "adds": {
             "BUF": 3
           },
-          "consenter_ids": [
-            3
-          ],
           "drops": {
             "9480": 3
           },
+          "consenter_ids": [
+            3
+          ],
           "roster_ids": [
             3
           ],
@@ -375,102 +423,102 @@
         {
           "id": "12540",
           "name": "Chimere Dike",
-          "adds": 460962
-        },
-        {
-          "id": "2020",
-          "name": "Cairo Santos",
-          "adds": 417802
-        },
-        {
-          "id": "10218",
-          "name": "Xavier Hutchinson",
-          "adds": 392560
-        },
-        {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "adds": 267741
-        },
-        {
-          "id": "12492",
-          "name": "Pat Bryant",
-          "adds": 212232
-        },
-        {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 208544
-        },
-        {
-          "id": "13424",
-          "name": "Seth McGowan",
-          "adds": 204480
-        },
-        {
-          "id": "5995",
-          "name": "Justice Hill",
-          "adds": 204462
-        },
-        {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 170874
-        },
-        {
-          "id": "11563",
-          "name": "Bo Nix",
-          "adds": 142386
-        },
-        {
-          "id": "TB",
-          "name": "TB",
-          "adds": 120365
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 112900
-        },
-        {
-          "id": "12700",
-          "name": "Gavin Bartholomew",
-          "adds": 106074
-        },
-        {
-          "id": "5045",
-          "name": "Courtland Sutton",
-          "adds": 101583
-        },
-        {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 97005
-        },
-        {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "adds": 95436
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 93256
-        },
-        {
-          "id": "6528",
-          "name": "Joey Slye",
-          "adds": 91845
+          "adds": 257085
         },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 83768
+          "adds": 161688
+        },
+        {
+          "id": "5995",
+          "name": "Justice Hill",
+          "adds": 134559
+        },
+        {
+          "id": "12492",
+          "name": "Pat Bryant",
+          "adds": 121264
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 119781
+        },
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "adds": 106335
+        },
+        {
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 88837
+        },
+        {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 78440
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 53757
+        },
+        {
+          "id": "4147",
+          "name": "Samaje Perine",
+          "adds": 53648
+        },
+        {
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "adds": 52688
+        },
+        {
+          "id": "5045",
+          "name": "Courtland Sutton",
+          "adds": 50535
+        },
+        {
+          "id": "2505",
+          "name": "Darren Waller",
+          "adds": 50517
+        },
+        {
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "adds": 47440
+        },
+        {
+          "id": "5906",
+          "name": "Dawson Knox",
+          "adds": 46302
+        },
+        {
+          "id": "12700",
+          "name": "Gavin Bartholomew",
+          "adds": 43857
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 41110
+        },
+        {
+          "id": "11563",
+          "name": "Bo Nix",
+          "adds": 38844
         },
         {
           "id": "12534",
           "name": "Kyle Monangai",
-          "adds": 83694
+          "adds": 38010
+        },
+        {
+          "id": "12502",
+          "name": "Gunnar Helm",
+          "adds": 36568
         }
       ]
     },
@@ -960,102 +1008,102 @@
         {
           "id": "12540",
           "name": "Chimere Dike",
-          "adds": 460962
-        },
-        {
-          "id": "2020",
-          "name": "Cairo Santos",
-          "adds": 417802
-        },
-        {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "adds": 267741
-        },
-        {
-          "id": "12492",
-          "name": "Pat Bryant",
-          "adds": 212232
-        },
-        {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 208544
-        },
-        {
-          "id": "13424",
-          "name": "Seth McGowan",
-          "adds": 204480
-        },
-        {
-          "id": "5995",
-          "name": "Justice Hill",
-          "adds": 204462
-        },
-        {
-          "id": "5012",
-          "name": "Mark Andrews",
-          "adds": 199287
-        },
-        {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 170874
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 169600
-        },
-        {
-          "id": "11563",
-          "name": "Bo Nix",
-          "adds": 142386
-        },
-        {
-          "id": "TB",
-          "name": "TB",
-          "adds": 120365
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 112900
-        },
-        {
-          "id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "adds": 111906
-        },
-        {
-          "id": "12700",
-          "name": "Gavin Bartholomew",
-          "adds": 106074
-        },
-        {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 97005
-        },
-        {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "adds": 95436
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 93256
-        },
-        {
-          "id": "6528",
-          "name": "Joey Slye",
-          "adds": 91845
+          "adds": 257085
         },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 83768
+          "adds": 161688
+        },
+        {
+          "id": "5995",
+          "name": "Justice Hill",
+          "adds": 134559
+        },
+        {
+          "id": "12492",
+          "name": "Pat Bryant",
+          "adds": 121264
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 119781
+        },
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "adds": 106335
+        },
+        {
+          "id": "5012",
+          "name": "Mark Andrews",
+          "adds": 104715
+        },
+        {
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 88837
+        },
+        {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 78440
+        },
+        {
+          "id": "12718",
+          "name": "Konata Mumpfield",
+          "adds": 62919
+        },
+        {
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 60384
+        },
+        {
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "adds": 59940
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 53757
+        },
+        {
+          "id": "4147",
+          "name": "Samaje Perine",
+          "adds": 53648
+        },
+        {
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "adds": 52688
+        },
+        {
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "adds": 47440
+        },
+        {
+          "id": "5906",
+          "name": "Dawson Knox",
+          "adds": 46302
+        },
+        {
+          "id": "12700",
+          "name": "Gavin Bartholomew",
+          "adds": 43857
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 41110
+        },
+        {
+          "id": "11563",
+          "name": "Bo Nix",
+          "adds": 38844
         }
       ]
     }
