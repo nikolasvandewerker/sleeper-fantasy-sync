@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-21T12:07:34.236436+00:00",
+  "updated_at_utc": "2026-11-22T12:04:51.851185+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
@@ -1025,7 +1025,7 @@
               "player_id": 4430737,
               "name": "Kyren Williams",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 14,
               "default_position_id": 2
             },
@@ -2467,7 +2467,7 @@
               "player_id": 4430737,
               "name": "Kyren Williams",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 14,
               "default_position_id": 2
             },

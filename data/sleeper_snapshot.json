@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-21T12:07:33.088567+00:00",
+  "updated_at_utc": "2026-11-22T12:04:51.414452+00:00",
   "season": "2026",
   "week": 11,
   "leagues": {
@@ -256,6 +256,35 @@
           "metadata": {
             "notes": "Your waiver claim was processed successfully!"
           },
+          "created": 1795293669522,
+          "settings": {
+            "seq": 0
+          },
+          "leg": 11,
+          "draft_picks": [],
+          "creator": "1389823443402235904",
+          "transaction_id": "1429968929035390976",
+          "adds": {
+            "11646": 5
+          },
+          "drops": {
+            "2747": 5
+          },
+          "consenter_ids": [
+            5
+          ],
+          "roster_ids": [
+            5
+          ],
+          "status_updated": 1795334870112,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "waiver",
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
           "created": 1795229351791,
           "settings": {
             "seq": 0
@@ -423,102 +452,102 @@
         {
           "id": "12540",
           "name": "Chimere Dike",
-          "adds": 257085
+          "adds": 218124
         },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 161688
+          "adds": 149672
         },
         {
           "id": "5995",
           "name": "Justice Hill",
-          "adds": 134559
-        },
-        {
-          "id": "12492",
-          "name": "Pat Bryant",
-          "adds": 121264
-        },
-        {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "adds": 119781
-        },
-        {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 106335
-        },
-        {
-          "id": "2020",
-          "name": "Cairo Santos",
-          "adds": 88837
-        },
-        {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 78440
-        },
-        {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "adds": 53757
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 53648
-        },
-        {
-          "id": "7567",
-          "name": "Kenny Gainwell",
-          "adds": 52688
-        },
-        {
-          "id": "5045",
-          "name": "Courtland Sutton",
-          "adds": 50535
-        },
-        {
-          "id": "2505",
-          "name": "Darren Waller",
-          "adds": 50517
-        },
-        {
-          "id": "12487",
-          "name": "Terrance Ferguson",
-          "adds": 47440
+          "adds": 138267
         },
         {
           "id": "5906",
           "name": "Dawson Knox",
-          "adds": 46302
+          "adds": 109956
         },
         {
-          "id": "12700",
-          "name": "Gavin Bartholomew",
-          "adds": 43857
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 92277
         },
         {
-          "id": "TB",
-          "name": "TB",
-          "adds": 41110
+          "id": "11630",
+          "name": "Roman Wilson",
+          "adds": 89991
         },
         {
-          "id": "11563",
-          "name": "Bo Nix",
-          "adds": 38844
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "adds": 78960
         },
         {
-          "id": "12534",
-          "name": "Kyle Monangai",
-          "adds": 38010
+          "id": "12492",
+          "name": "Pat Bryant",
+          "adds": 78784
+        },
+        {
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 77154
+        },
+        {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 51908
+        },
+        {
+          "id": "4147",
+          "name": "Samaje Perine",
+          "adds": 47584
+        },
+        {
+          "id": "2505",
+          "name": "Darren Waller",
+          "adds": 41400
         },
         {
           "id": "12502",
           "name": "Gunnar Helm",
-          "adds": 36568
+          "adds": 37590
+        },
+        {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "adds": 36840
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 34227
+        },
+        {
+          "id": "5045",
+          "name": "Courtland Sutton",
+          "adds": 33462
+        },
+        {
+          "id": "TB",
+          "name": "TB",
+          "adds": 33435
+        },
+        {
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 31680
+        },
+        {
+          "id": "5119",
+          "name": "Jason Sanders",
+          "adds": 31250
+        },
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "adds": 29286
         }
       ]
     },
@@ -670,12 +699,12 @@
           "adds": {
             "7525": 5
           },
-          "drops": {
-            "96": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "96": 5
+          },
           "roster_ids": [
             5
           ],
@@ -695,12 +724,12 @@
           "adds": {
             "DET": 4
           },
-          "drops": {
-            "LAR": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "LAR": 4
+          },
           "roster_ids": [
             4
           ],
@@ -720,12 +749,12 @@
           "adds": {
             "5045": 4
           },
-          "drops": {
-            "12718": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "12718": 4
+          },
           "roster_ids": [
             4
           ],
@@ -745,12 +774,12 @@
           "adds": {
             "CHI": 6
           },
-          "drops": {
-            "NO": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "NO": 6
+          },
           "roster_ids": [
             6
           ],
@@ -770,12 +799,12 @@
           "adds": {
             "10218": 3
           },
-          "drops": {
-            "12514": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "12514": 3
+          },
           "roster_ids": [
             3
           ],
@@ -795,12 +824,12 @@
           "adds": {
             "5844": 1
           },
-          "drops": {
-            "8210": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "8210": 1
+          },
           "roster_ids": [
             1
           ],
@@ -820,12 +849,12 @@
           "adds": {
             "BUF": 2
           },
-          "drops": {
-            "11646": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "11646": 2
+          },
           "roster_ids": [
             2
           ],
@@ -845,12 +874,12 @@
           "adds": {
             "DEN": 1
           },
-          "drops": {
-            "JAX": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "JAX": 1
+          },
           "roster_ids": [
             1
           ],
@@ -870,12 +899,12 @@
           "adds": {
             "8210": 1
           },
-          "drops": {
-            "9484": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "9484": 1
+          },
           "roster_ids": [
             1
           ],
@@ -895,12 +924,12 @@
           "adds": {
             "11620": 5
           },
-          "drops": {
-            "7525": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "7525": 5
+          },
           "roster_ids": [
             5
           ],
@@ -920,12 +949,12 @@
           "adds": {
             "11635": 8
           },
-          "drops": {
-            "13346": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "13346": 8
+          },
           "roster_ids": [
             8
           ],
@@ -945,10 +974,10 @@
           "adds": {
             "96": 5
           },
-          "drops": null,
           "consenter_ids": [
             5
           ],
+          "drops": null,
           "roster_ids": [
             5
           ],
@@ -966,12 +995,12 @@
           "creator": "1018776486419009536",
           "transaction_id": "1428417362905800704",
           "adds": null,
-          "drops": {
-            "7021": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "7021": 5
+          },
           "roster_ids": [
             5
           ],
@@ -991,12 +1020,12 @@
           "adds": {
             "6650": 8
           },
-          "drops": {
-            "2747": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "2747": 8
+          },
           "roster_ids": [
             8
           ],
@@ -1008,102 +1037,102 @@
         {
           "id": "12540",
           "name": "Chimere Dike",
-          "adds": 257085
+          "adds": 218124
         },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
-          "adds": 161688
+          "adds": 149672
         },
         {
           "id": "5995",
           "name": "Justice Hill",
-          "adds": 134559
-        },
-        {
-          "id": "12492",
-          "name": "Pat Bryant",
-          "adds": 121264
-        },
-        {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "adds": 119781
-        },
-        {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "adds": 106335
-        },
-        {
-          "id": "5012",
-          "name": "Mark Andrews",
-          "adds": 104715
-        },
-        {
-          "id": "2020",
-          "name": "Cairo Santos",
-          "adds": 88837
-        },
-        {
-          "id": "12499",
-          "name": "Elic Ayomanor",
-          "adds": 78440
-        },
-        {
-          "id": "12718",
-          "name": "Konata Mumpfield",
-          "adds": 62919
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "adds": 60384
-        },
-        {
-          "id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "adds": 59940
-        },
-        {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "adds": 53757
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 53648
-        },
-        {
-          "id": "7567",
-          "name": "Kenny Gainwell",
-          "adds": 52688
-        },
-        {
-          "id": "12487",
-          "name": "Terrance Ferguson",
-          "adds": 47440
+          "adds": 138267
         },
         {
           "id": "5906",
           "name": "Dawson Knox",
-          "adds": 46302
+          "adds": 109956
         },
         {
-          "id": "12700",
-          "name": "Gavin Bartholomew",
-          "adds": 43857
+          "id": "9482",
+          "name": "Michael Mayer",
+          "adds": 92277
+        },
+        {
+          "id": "11630",
+          "name": "Roman Wilson",
+          "adds": 89991
+        },
+        {
+          "id": "12718",
+          "name": "Konata Mumpfield",
+          "adds": 79956
+        },
+        {
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "adds": 78960
+        },
+        {
+          "id": "12492",
+          "name": "Pat Bryant",
+          "adds": 78784
+        },
+        {
+          "id": "5012",
+          "name": "Mark Andrews",
+          "adds": 77571
+        },
+        {
+          "id": "2020",
+          "name": "Cairo Santos",
+          "adds": 77154
+        },
+        {
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "adds": 55584
+        },
+        {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "adds": 51908
+        },
+        {
+          "id": "4147",
+          "name": "Samaje Perine",
+          "adds": 47584
+        },
+        {
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "adds": 42936
+        },
+        {
+          "id": "12502",
+          "name": "Gunnar Helm",
+          "adds": 37590
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 34227
         },
         {
           "id": "TB",
           "name": "TB",
-          "adds": 41110
+          "adds": 33435
         },
         {
-          "id": "11563",
-          "name": "Bo Nix",
-          "adds": 38844
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 31680
+        },
+        {
+          "id": "5119",
+          "name": "Jason Sanders",
+          "adds": 31250
         }
       ]
     }
