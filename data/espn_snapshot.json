@@ -1,11 +1,11 @@
 {
-  "updated_at_utc": "2026-11-23T22:47:42.906225+00:00",
+  "updated_at_utc": "2026-11-24T21:24:39.552025+00:00",
   "leagues": {
     "2026 Pop-a-Top": {
       "league_id": 820491,
       "league_name": "2026 Pop-a-Top",
       "season": 2026,
-      "week": 11,
+      "week": 12,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -348,7 +348,7 @@
         {
           "team_id": 1,
           "record": {
-            "wins": 7,
+            "wins": 8,
             "losses": 3
           },
           "roster": [
@@ -364,7 +364,7 @@
               "player_id": 4567048,
               "name": "Kenneth Walker III",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 12,
               "default_position_id": 2
             },
@@ -404,7 +404,7 @@
               "player_id": 4385690,
               "name": "Dalton Kincaid",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 2,
               "default_position_id": 4
             },
@@ -444,7 +444,7 @@
               "player_id": 4697815,
               "name": "Rachaad White",
               "lineup_slot_id": 20,
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "pro_team_id": 28,
               "default_position_id": 2
             },
@@ -478,7 +478,7 @@
           "team_id": 3,
           "record": {
             "wins": 3,
-            "losses": 7
+            "losses": 8
           },
           "roster": [
             {
@@ -573,7 +573,7 @@
               "player_id": 4832800,
               "name": "Denzel Boston",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 5,
               "default_position_id": 3
             },
@@ -606,7 +606,7 @@
         {
           "team_id": 4,
           "record": {
-            "wins": 3,
+            "wins": 4,
             "losses": 7
           },
           "roster": [
@@ -645,7 +645,7 @@
             {
               "player_id": 4871023,
               "name": "Carnell Tate",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 10,
               "default_position_id": 3
@@ -653,7 +653,7 @@
             {
               "player_id": 16737,
               "name": "Mike Evans",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 25,
               "default_position_id": 3
@@ -736,7 +736,7 @@
           "team_id": 6,
           "record": {
             "wins": 7,
-            "losses": 3
+            "losses": 4
           },
           "roster": [
             {
@@ -839,7 +839,7 @@
               "player_id": 4429059,
               "name": "Woody Marks",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 34,
               "default_position_id": 2
             },
@@ -865,7 +865,7 @@
           "team_id": 7,
           "record": {
             "wins": 6,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -928,7 +928,7 @@
               "player_id": 4047365,
               "name": "Josh Jacobs",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 9,
               "default_position_id": 2
             },
@@ -936,7 +936,7 @@
               "player_id": 4242355,
               "name": "Jake Ferguson",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 6,
               "default_position_id": 4
             },
@@ -994,7 +994,7 @@
           "team_id": 8,
           "record": {
             "wins": 2,
-            "losses": 8
+            "losses": 9
           },
           "roster": [
             {
@@ -1008,7 +1008,7 @@
             {
               "player_id": 3929630,
               "name": "Saquon Barkley",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 2,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 21,
               "default_position_id": 2
@@ -1048,7 +1048,7 @@
             {
               "player_id": 5083076,
               "name": "Harold Fannin Jr.",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 5,
               "default_position_id": 4
@@ -1104,7 +1104,7 @@
             {
               "player_id": 4711533,
               "name": "Ollie Gordon II",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 15,
               "default_position_id": 2
@@ -1112,7 +1112,7 @@
             {
               "player_id": 4430539,
               "name": "Brenton Strange",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 30,
               "default_position_id": 4
@@ -1123,7 +1123,7 @@
           "team_id": 9,
           "record": {
             "wins": 6,
-            "losses": 4
+            "losses": 5
           },
           "roster": [
             {
@@ -1138,7 +1138,7 @@
               "player_id": 4432665,
               "name": "Brock Bowers",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 13,
               "default_position_id": 4
             },
@@ -1251,14 +1251,14 @@
         {
           "team_id": 13,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 4
           },
           "roster": [
             {
               "player_id": 4430878,
               "name": "Jaxon Smith-Njigba",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 26,
               "default_position_id": 3
@@ -1266,7 +1266,7 @@
             {
               "player_id": 4362238,
               "name": "Chase Brown",
-              "lineup_slot_id": 3,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 4,
               "default_position_id": 2
@@ -1282,7 +1282,7 @@
             {
               "player_id": 4696981,
               "name": "Cam Skattebo",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 3,
               "injury_status": "ACTIVE",
               "pro_team_id": 19,
               "default_position_id": 2
@@ -1330,7 +1330,7 @@
             {
               "player_id": 4428331,
               "name": "Rashee Rice",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 3
@@ -1338,7 +1338,7 @@
             {
               "player_id": 4837248,
               "name": "Fernando Mendoza",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 0,
               "injury_status": "ACTIVE",
               "pro_team_id": 13,
               "default_position_id": 1
@@ -1362,7 +1362,7 @@
             {
               "player_id": 4426338,
               "name": "Bo Nix",
-              "lineup_slot_id": 0,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 7,
               "default_position_id": 1
@@ -1380,14 +1380,14 @@
         {
           "team_id": 14,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 4
           },
           "roster": [
             {
               "player_id": 4890973,
               "name": "Ashton Jeanty",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 2,
               "injury_status": "ACTIVE",
               "pro_team_id": 13,
               "default_position_id": 2
@@ -1427,7 +1427,7 @@
             {
               "player_id": 4701936,
               "name": "Matthew Golden",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 9,
               "default_position_id": 3
@@ -1475,7 +1475,7 @@
             {
               "player_id": 4832955,
               "name": "Emmett Johnson",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 2
@@ -1483,7 +1483,7 @@
             {
               "player_id": 4372016,
               "name": "Jaylen Waddle",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 7,
               "default_position_id": 3
@@ -1509,7 +1509,7 @@
         {
           "team_id": 15,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 6
           },
           "roster": [
@@ -1549,7 +1549,7 @@
               "player_id": 4430027,
               "name": "Sam LaPorta",
               "lineup_slot_id": 6,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 8,
               "default_position_id": 4
             },
@@ -1641,7 +1641,7 @@
       "league_id": 415719,
       "league_name": "MUDCATS",
       "season": 2026,
-      "week": 11,
+      "week": 12,
       "team_count": 10,
       "lineup_slot_counts": {
         "0": 1,
@@ -2001,7 +2001,7 @@
           "team_id": 1,
           "record": {
             "wins": 8,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -2047,7 +2047,7 @@
             {
               "player_id": 5083076,
               "name": "Harold Fannin Jr.",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 6,
               "injury_status": "ACTIVE",
               "pro_team_id": 5,
               "default_position_id": 4
@@ -2087,7 +2087,7 @@
             {
               "player_id": 3116365,
               "name": "Mark Andrews",
-              "lineup_slot_id": 6,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 33,
               "default_position_id": 4
@@ -2146,7 +2146,7 @@
           "team_id": 2,
           "record": {
             "wins": 8,
-            "losses": 2
+            "losses": 3
           },
           "roster": [
             {
@@ -2176,7 +2176,7 @@
             {
               "player_id": 4882093,
               "name": "Bhayshul Tuten",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 2,
               "injury_status": "QUESTIONABLE",
               "pro_team_id": 30,
               "default_position_id": 2
@@ -2184,7 +2184,7 @@
             {
               "player_id": 4685278,
               "name": "Luther Burden III",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 3,
               "default_position_id": 3
@@ -2192,7 +2192,7 @@
             {
               "player_id": 16737,
               "name": "Mike Evans",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 25,
               "default_position_id": 3
@@ -2208,7 +2208,7 @@
             {
               "player_id": 4241416,
               "name": "Chuba Hubbard",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 29,
               "default_position_id": 2
@@ -2290,7 +2290,7 @@
         {
           "team_id": 3,
           "record": {
-            "wins": 1,
+            "wins": 2,
             "losses": 9
           },
           "roster": [
@@ -2330,7 +2330,7 @@
               "player_id": 4047365,
               "name": "Josh Jacobs",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 9,
               "default_position_id": 2
             },
@@ -2436,7 +2436,7 @@
           "team_id": 5,
           "record": {
             "wins": 5,
-            "losses": 5
+            "losses": 6
           },
           "roster": [
             {
@@ -2475,7 +2475,7 @@
               "player_id": 4430027,
               "name": "Sam LaPorta",
               "lineup_slot_id": 6,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 8,
               "default_position_id": 4
             },
@@ -2580,14 +2580,14 @@
         {
           "team_id": 6,
           "record": {
-            "wins": 6,
+            "wins": 7,
             "losses": 4
           },
           "roster": [
             {
               "player_id": 4430878,
               "name": "Jaxon Smith-Njigba",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 26,
               "default_position_id": 3
@@ -2595,7 +2595,7 @@
             {
               "player_id": 3043078,
               "name": "Derrick Henry",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 33,
               "default_position_id": 2
@@ -2604,14 +2604,14 @@
               "player_id": 4432665,
               "name": "Brock Bowers",
               "lineup_slot_id": 6,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 13,
               "default_position_id": 4
             },
             {
               "player_id": 4241478,
               "name": "DeVonta Smith",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 21,
               "default_position_id": 3
@@ -2651,7 +2651,7 @@
             {
               "player_id": 3916148,
               "name": "Tony Pollard",
-              "lineup_slot_id": 3,
+              "lineup_slot_id": 2,
               "injury_status": "ACTIVE",
               "pro_team_id": 10,
               "default_position_id": 2
@@ -2659,7 +2659,7 @@
             {
               "player_id": 4701936,
               "name": "Matthew Golden",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 3,
               "injury_status": "ACTIVE",
               "pro_team_id": 9,
               "default_position_id": 3
@@ -2668,7 +2668,7 @@
               "player_id": 4429205,
               "name": "Jordan Addison",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "DOUBTFUL",
               "pro_team_id": 16,
               "default_position_id": 3
             },
@@ -2708,7 +2708,7 @@
               "player_id": 4429059,
               "name": "Woody Marks",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 34,
               "default_position_id": 2
             },
@@ -2726,7 +2726,7 @@
           "team_id": 7,
           "record": {
             "wins": 2,
-            "losses": 8
+            "losses": 9
           },
           "roster": [
             {
@@ -2789,7 +2789,7 @@
               "player_id": 4385690,
               "name": "Dalton Kincaid",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 2,
               "default_position_id": 4
             },
@@ -2821,7 +2821,7 @@
               "player_id": 4832800,
               "name": "Denzel Boston",
               "lineup_slot_id": 20,
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 5,
               "default_position_id": 3
             },
@@ -2870,7 +2870,7 @@
         {
           "team_id": 8,
           "record": {
-            "wins": 5,
+            "wins": 6,
             "losses": 5
           },
           "roster": [
@@ -3015,7 +3015,7 @@
         {
           "team_id": 9,
           "record": {
-            "wins": 7,
+            "wins": 8,
             "losses": 3
           },
           "roster": [
@@ -3039,7 +3039,7 @@
               "player_id": 4567048,
               "name": "Kenneth Walker III",
               "lineup_slot_id": 20,
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "pro_team_id": 12,
               "default_position_id": 2
             },
@@ -3161,7 +3161,7 @@
           "team_id": 10,
           "record": {
             "wins": 4,
-            "losses": 6
+            "losses": 7
           },
           "roster": [
             {
@@ -3183,7 +3183,7 @@
             {
               "player_id": 4428331,
               "name": "Rashee Rice",
-              "lineup_slot_id": 4,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 12,
               "default_position_id": 3
@@ -3199,7 +3199,7 @@
             {
               "player_id": 4685702,
               "name": "Quinshon Judkins",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 2,
               "injury_status": "ACTIVE",
               "pro_team_id": 5,
               "default_position_id": 2
@@ -3223,7 +3223,7 @@
             {
               "player_id": -16007,
               "name": "Broncos D/ST",
-              "lineup_slot_id": 16,
+              "lineup_slot_id": 20,
               "injury_status": null,
               "pro_team_id": 7,
               "default_position_id": 16
@@ -3231,7 +3231,7 @@
             {
               "player_id": 4248528,
               "name": "Christian Watson",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 4,
               "injury_status": "ACTIVE",
               "pro_team_id": 9,
               "default_position_id": 3
@@ -3255,7 +3255,7 @@
             {
               "player_id": 3046779,
               "name": "Jared Goff",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 0,
               "injury_status": "ACTIVE",
               "pro_team_id": 8,
               "default_position_id": 1
@@ -3271,7 +3271,7 @@
             {
               "player_id": -16016,
               "name": "Vikings D/ST",
-              "lineup_slot_id": 20,
+              "lineup_slot_id": 16,
               "injury_status": null,
               "pro_team_id": 16,
               "default_position_id": 16
@@ -3287,7 +3287,7 @@
             {
               "player_id": 4711533,
               "name": "Ollie Gordon II",
-              "lineup_slot_id": 2,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 15,
               "default_position_id": 2
@@ -3295,7 +3295,7 @@
             {
               "player_id": 4431611,
               "name": "Caleb Williams",
-              "lineup_slot_id": 0,
+              "lineup_slot_id": 20,
               "injury_status": "ACTIVE",
               "pro_team_id": 3,
               "default_position_id": 1
@@ -3305,7 +3305,7 @@
         {
           "team_id": 11,
           "record": {
-            "wins": 4,
+            "wins": 5,
             "losses": 6
           },
           "roster": [
