@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-26T20:20:58.451660+00:00",
+  "updated_at_utc": "2026-11-27T20:06:45.346414+00:00",
   "season": "2026",
   "week": 12,
   "leagues": {
@@ -252,104 +252,104 @@
       "recent_transactions": [],
       "unrostered_trending_adds": [
         {
-          "id": "WAS",
-          "name": "WAS",
-          "adds": 533176
+          "id": "13322",
+          "name": "Sam Roush",
+          "adds": 202426
+        },
+        {
+          "id": "11631",
+          "name": "Brian Thomas Jr.",
+          "adds": 193050
+        },
+        {
+          "id": "13394",
+          "name": "Josh Cameron",
+          "adds": 167216
+        },
+        {
+          "id": "11557",
+          "name": "Joe Milton",
+          "adds": 160044
         },
         {
           "id": "4017",
           "name": "Deshaun Watson",
-          "adds": 345920
-        },
-        {
-          "id": "CLE",
-          "name": "CLE",
-          "adds": 278509
+          "adds": 140488
         },
         {
           "id": "10219",
           "name": "Chris Rodriguez Jr.",
-          "adds": 278163
+          "adds": 101790
         },
         {
-          "id": "5995",
-          "name": "Justice Hill",
-          "adds": 228681
-        },
-        {
-          "id": "NE",
-          "name": "NE",
-          "adds": 175889
-        },
-        {
-          "id": "NYG",
-          "name": "NYG",
-          "adds": 161064
-        },
-        {
-          "id": "1373",
-          "name": "Geno Smith",
-          "adds": 157396
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 151988
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 118656
-        },
-        {
-          "id": "13317",
-          "name": "Ted Hurst III",
-          "adds": 95754
+          "id": "WAS",
+          "name": "WAS",
+          "adds": 93786
         },
         {
           "id": "4066",
           "name": "Evan Engram",
-          "adds": 87272
+          "adds": 85424
         },
         {
-          "id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "adds": 85095
+          "id": "9480",
+          "name": "Brenton Strange",
+          "adds": 68139
         },
         {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "adds": 79590
+          "id": "NE",
+          "name": "NE",
+          "adds": 63322
         },
         {
-          "id": "4972",
-          "name": "Mason Rudolph",
-          "adds": 78512
+          "id": "CLE",
+          "name": "CLE",
+          "adds": 61698
         },
         {
-          "id": "TB",
-          "name": "TB",
-          "adds": 78160
+          "id": "1373",
+          "name": "Geno Smith",
+          "adds": 61212
         },
         {
-          "id": "11565",
-          "name": "J.J. McCarthy",
-          "adds": 75336
+          "id": "5995",
+          "name": "Justice Hill",
+          "adds": 54144
         },
         {
-          "id": "13276",
-          "name": "Omar Cooper Jr.",
-          "adds": 73592
+          "id": "4147",
+          "name": "Samaje Perine",
+          "adds": 49988
+        },
+        {
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 42824
+        },
+        {
+          "id": "12496",
+          "name": "Tai Felton",
+          "adds": 38490
+        },
+        {
+          "id": "13317",
+          "name": "Ted Hurst III",
+          "adds": 38070
         },
         {
           "id": "2505",
           "name": "Darren Waller",
-          "adds": 73530
+          "adds": 36342
         },
         {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 72250
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "adds": 32823
+        },
+        {
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "adds": 30981
         }
       ]
     },
@@ -501,12 +501,12 @@
           "adds": {
             "10219": 6
           },
-          "consenter_ids": [
-            6
-          ],
           "drops": {
             "6806": 6
           },
+          "consenter_ids": [
+            6
+          ],
           "roster_ids": [
             6
           ],
@@ -526,12 +526,12 @@
           "adds": {
             "12533": 1
           },
-          "consenter_ids": [
-            1
-          ],
           "drops": {
             "11564": 1
           },
+          "consenter_ids": [
+            1
+          ],
           "roster_ids": [
             1
           ],
@@ -551,12 +551,12 @@
           "adds": {
             "13296": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "12540": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -576,12 +576,12 @@
           "adds": {
             "12540": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "13296": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -601,12 +601,12 @@
           "adds": {
             "13281": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "5846": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -626,12 +626,12 @@
           "adds": {
             "CLE": 8
           },
-          "consenter_ids": [
-            8
-          ],
           "drops": {
             "KC": 8
           },
+          "consenter_ids": [
+            8
+          ],
           "roster_ids": [
             8
           ],
@@ -651,10 +651,10 @@
           "adds": {
             "9753": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -672,12 +672,12 @@
           "creator": "1401346080599236608",
           "transaction_id": "1430956438737387520",
           "adds": null,
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "9482": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -697,12 +697,12 @@
           "adds": {
             "JAX": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "BUF": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -722,12 +722,12 @@
           "adds": {
             "13968": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "12185": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -737,104 +737,104 @@
       ],
       "unrostered_trending_adds": [
         {
-          "id": "WAS",
-          "name": "WAS",
-          "adds": 533176
+          "id": "13322",
+          "name": "Sam Roush",
+          "adds": 202426
+        },
+        {
+          "id": "11631",
+          "name": "Brian Thomas Jr.",
+          "adds": 193050
+        },
+        {
+          "id": "13394",
+          "name": "Josh Cameron",
+          "adds": 167216
+        },
+        {
+          "id": "11557",
+          "name": "Joe Milton",
+          "adds": 160044
         },
         {
           "id": "4017",
           "name": "Deshaun Watson",
-          "adds": 345920
+          "adds": 140488
         },
         {
-          "id": "12718",
-          "name": "Konata Mumpfield",
-          "adds": 234477
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "adds": 132660
         },
         {
-          "id": "5995",
-          "name": "Justice Hill",
-          "adds": 228681
-        },
-        {
-          "id": "NE",
-          "name": "NE",
-          "adds": 175889
-        },
-        {
-          "id": "NYG",
-          "name": "NYG",
-          "adds": 161064
-        },
-        {
-          "id": "1373",
-          "name": "Geno Smith",
-          "adds": 157396
-        },
-        {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "adds": 151988
-        },
-        {
-          "id": "12540",
-          "name": "Chimere Dike",
-          "adds": 136773
-        },
-        {
-          "id": "13269",
-          "name": "Fernando Mendoza",
-          "adds": 118656
-        },
-        {
-          "id": "13317",
-          "name": "Ted Hurst III",
-          "adds": 95754
+          "id": "WAS",
+          "name": "WAS",
+          "adds": 93786
         },
         {
           "id": "4066",
           "name": "Evan Engram",
-          "adds": 87272
+          "adds": 85424
         },
         {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "adds": 79590
-        },
-        {
-          "id": "4972",
-          "name": "Mason Rudolph",
-          "adds": 78512
-        },
-        {
-          "id": "TB",
-          "name": "TB",
-          "adds": 78160
-        },
-        {
-          "id": "11565",
-          "name": "J.J. McCarthy",
-          "adds": 75336
-        },
-        {
-          "id": "13276",
-          "name": "Omar Cooper Jr.",
-          "adds": 73592
-        },
-        {
-          "id": "5119",
-          "name": "Jason Sanders",
-          "adds": 72250
-        },
-        {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "adds": 68643
+          "id": "12540",
+          "name": "Chimere Dike",
+          "adds": 82845
         },
         {
           "id": "9480",
           "name": "Brenton Strange",
-          "adds": 60372
+          "adds": 68139
+        },
+        {
+          "id": "NE",
+          "name": "NE",
+          "adds": 63322
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith",
+          "adds": 61212
+        },
+        {
+          "id": "5995",
+          "name": "Justice Hill",
+          "adds": 54144
+        },
+        {
+          "id": "4147",
+          "name": "Samaje Perine",
+          "adds": 49988
+        },
+        {
+          "id": "12718",
+          "name": "Konata Mumpfield",
+          "adds": 44892
+        },
+        {
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "adds": 42824
+        },
+        {
+          "id": "12496",
+          "name": "Tai Felton",
+          "adds": 38490
+        },
+        {
+          "id": "13317",
+          "name": "Ted Hurst III",
+          "adds": 38070
+        },
+        {
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "adds": 30981
+        },
+        {
+          "id": "5119",
+          "name": "Jason Sanders",
+          "adds": 29065
         }
       ]
     }
